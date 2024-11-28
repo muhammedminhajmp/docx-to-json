@@ -1,0 +1,482 @@
+[
+    {
+        "question": "Who is responsible for the collection and disbursement of Zakat in Saudi Arabia?",
+        "options": {
+            "op1": "Ministry of Finance",
+            "op2": "Zakat, Tax and Customs Authority",
+            "op3": "Saudi Central Bank",
+            "op4": "Ministry of Commerce"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What is the minimum Zakat ratio applied to Zakatable funds for the real estate sector?",
+        "options": {
+            "op1": "1.5%",
+            "op2": "2%",
+            "op3": "2.5%",
+            "op4": "3%"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Zakat base for real estate is calculated using which of the following methods?",
+        "options": {
+            "op1": "Gross income",
+            "op2": "Net asset method",
+            "op3": "Direct expenses method",
+            "op4": "Zakatable asset method"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "The concept of Al-Hawl in Zakat calculation refers to:",
+        "options": {
+            "op1": "One fiscal year",
+            "op2": "One lunar year",
+            "op3": "One calendar year",
+            "op4": "One financial quarter"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "For Zakat purposes, a Zakatable year has how many days?",
+        "options": {
+            "op1": "354 days",
+            "op2": "365 days",
+            "op3": "360 days",
+            "op4": "400 days"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Short-term liabilities that finance deductible assets are:",
+        "options": {
+            "op1": "Excluded from Zakat base",
+            "op2": "Added to Zakat base",
+            "op3": "Only partially added",
+            "op4": "Deducted from net income"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Which Royal Decree formalized the Zakat collection system?",
+        "options": {
+            "op1": "Decree No. (M/40)",
+            "op2": "Decree No. (2216)",
+            "op3": "Decree No. (2082)",
+            "op4": "Decree No. (465)"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Who must submit a Zakat Declaration in Saudi Arabia?",
+        "options": {
+            "op1": "Only large businesses",
+            "op2": "All businesses and individuals with Zakatable activities",
+            "op3": "Only individuals",
+            "op4": "Only foreign investors"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "The term 'Zakatable Assets' includes:",
+        "options": {
+            "op1": "Real estate only",
+            "op2": "Fixed assets only",
+            "op3": "All current assets and inventory",
+            "op4": "All assets regardless of type"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "How are capital increases treated in the Zakat base?",
+        "options": {
+            "op1": "Ignored",
+            "op2": "Deducted from Zakat base",
+            "op3": "Added in full if sourced internally",
+            "op4": "Added partially only"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Provisions for end-of-service benefits are:",
+        "options": {
+            "op1": "Added to Zakat base",
+            "op2": "Deducted from Zakat base",
+            "op3": "Excluded from base calculation",
+            "op4": "Considered neutral in base"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Real estate held for sale is classified as:",
+        "options": {
+            "op1": "Non-Zakatable asset",
+            "op2": "Zakatable asset",
+            "op3": "Short-term liability",
+            "op4": "Excluded from Zakat base"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Net adjusted loss for the Zakat year is treated as:",
+        "options": {
+            "op1": "Added to Zakat base",
+            "op2": "Deducted from Zakat base",
+            "op3": "Excluded from calculation",
+            "op4": "Multiplied by 2.5%"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Who supervises Zakat declarations and payments?",
+        "options": {
+            "op1": "Saudi Central Bank",
+            "op2": "Zakat, Tax and Customs Authority",
+            "op3": "Ministry of Commerce",
+            "op4": "Finance Ministry"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Which item is not deductible from the Zakat base?",
+        "options": {
+            "op1": "Cash and cash equivalents",
+            "op2": "Fixed assets",
+            "op3": "Short-term liabilities",
+            "op4": "Non-Zakatable investments"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "For a real estate company, Zakatable assets exclude:",
+        "options": {
+            "op1": "Inventory",
+            "op2": "Machinery",
+            "op3": "Receivables",
+            "op4": "Cash on hand"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "How is Zakat calculated on properties under development?",
+        "options": {
+            "op1": "2.5% annually on net profit",
+            "op2": "Based on projected value at completion",
+            "op3": "2.5% of the project's current cost",
+            "op4": "Based on total assets"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Long-term loans that finance deductible assets are:",
+        "options": {
+            "op1": "Excluded from base",
+            "op2": "Partially added",
+            "op3": "Added fully to Zakat base",
+            "op4": "Only partially considered"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "The main purpose of Zakat in Islam is to:",
+        "options": {
+            "op1": "Generate state revenue",
+            "op2": "Increase individual wealth",
+            "op3": "Support the needy",
+            "op4": "Provide business incentives"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Who is considered a 'resident' for Zakat purposes?",
+        "options": {
+            "op1": "Anyone with property in Saudi Arabia",
+            "op2": "Only Saudi citizens",
+            "op3": "As defined by Article (3) of Zakat Regulation",
+            "op4": "Foreign investors with residency permit"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "What is the purpose of Zakat Declaration?",
+        "options": {
+            "op1": "Tax refund",
+            "op2": "Showcase of assets only",
+            "op3": "To report Zakat base and due amount",
+            "op4": "To apply for exemptions"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Inventory in a real estate company is:",
+        "options": {
+            "op1": "Exempt from Zakat",
+            "op2": "Zakatable asset",
+            "op3": "Partially deductible",
+            "op4": "Ignored in calculations"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What is the rate applied on adjusted profit in Zakat calculation?",
+        "options": {
+            "op1": "1%",
+            "op2": "3%",
+            "op3": "2.5%",
+            "op4": "4%"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "What does 'Hawl' refer to in Zakat?",
+        "options": {
+            "op1": "A fiscal quarter",
+            "op2": "A Hijri year",
+            "op3": "A calendar year",
+            "op4": "Half-year period"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What is deducted from the Zakat base?",
+        "options": {
+            "op1": "Real estate value",
+            "op2": "Net profit",
+            "op3": "Non-Zakatable assets",
+            "op4": "Revenue"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Which liabilities are typically included in the Zakat base?",
+        "options": {
+            "op1": "Short-term",
+            "op2": "Long-term obligations financing deductible assets",
+            "op3": "Only accounts payable",
+            "op4": "None"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Who is exempt from Zakat payments?",
+        "options": {
+            "op1": "Foreign investors",
+            "op2": "Agricultural companies",
+            "op3": "Insurance companies",
+            "op4": "Companies following special guidelines"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "If a Zakat payer misses declaration deadlines, they:",
+        "options": {
+            "op1": "File within 60 days",
+            "op2": "Receive penalties",
+            "op3": "Are exempt",
+            "op4": "Can delay further"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Zakatable income in real estate activities excludes:",
+        "options": {
+            "op1": "Sales",
+            "op2": "Rental income",
+            "op3": "Fixed asset sales",
+            "op4": "Capital gains"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "What role does the General Authority of Zakat play?",
+        "options": {
+            "op1": "Sets Zakat rates",
+            "op2": "Manages social benefits",
+            "op3": "Collects and disburses Zakat",
+            "op4": "Oversees Zakat exemptions"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Equity in a company is considered:",
+        "options": {
+            "op1": "A Zakatable asset",
+            "op2": "Non-Zakatable",
+            "op3": "Source of funds",
+            "op4": "Expense item"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Cash set aside for business operations is:",
+        "options": {
+            "op1": "Zakatable",
+            "op2": "Non-Zakatable",
+            "op3": "Partially Zakatable",
+            "op4": "Excluded from base"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "What is considered an internal source of funds?",
+        "options": {
+            "op1": "Fixed asset",
+            "op2": "Loan",
+            "op3": "Equity",
+            "op4": "Inventory"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Properties under development are deducted if:",
+        "options": {
+            "op1": "Their value exceeds 30%",
+            "op2": "They remain unsold",
+            "op3": "25% or less is sold",
+            "op4": "They are located abroad"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Which income is Zakatable?",
+        "options": {
+            "op1": "Only capital gains",
+            "op2": "Rental income",
+            "op3": "Fixed assets sales",
+            "op4": "Operating expenses"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "External funds that are deductible in Zakat include:",
+        "options": {
+            "op1": "Loans",
+            "op2": "Short-term obligations",
+            "op3": "Liabilities financing deductible assets",
+            "op4": "Unsecured loans"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Properties classified as current assets are:",
+        "options": {
+            "op1": "Deducted",
+            "op2": "Excluded",
+            "op3": "Zakatable",
+            "op4": "Not reported"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Net loss adjusted for Zakat purposes is:",
+        "options": {
+            "op1": "Added to base",
+            "op2": "Deducted from base",
+            "op3": "Excluded",
+            "op4": "Multiplied by 2.5%"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "How often is Zakat calculated?",
+        "options": {
+            "op1": "Monthly",
+            "op2": "Quarterly",
+            "op3": "Yearly",
+            "op4": "Biannually"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Investments exempt from Zakat include:",
+        "options": {
+            "op1": "Trading properties",
+            "op2": "Non-trading shares in Saudi companies",
+            "op3": "Government bonds",
+            "op4": "All international assets"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "The purpose of the Implementing Regulations is to:",
+        "options": {
+            "op1": "Set tax rates",
+            "op2": "Guide Zakat levy application",
+            "op3": "Support tax evasion",
+            "op4": "Regulate only foreign assets"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Zakat on foreign investments requires:",
+        "options": {
+            "op1": "Quarterly payment",
+            "op2": "Registration with SAMA",
+            "op3": "Certificate from licensed accountant",
+            "op4": "Direct exemption"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Zakat base for deemed assets includes:",
+        "options": {
+            "op1": "Property value only",
+            "op2": "Capital and retained earnings",
+            "op3": "Estimated imports",
+            "op4": "Commercial book records only"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "For construction, retained earnings are:",
+        "options": {
+            "op1": "Deducted from base",
+            "op2": "Added to Zakat base",
+            "op3": "Excluded",
+            "op4": "Only included if distributed"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Projects classified as long-term assets are:",
+        "options": {
+            "op1": "Fully Zakatable",
+            "op2": "Partially Zakatable",
+            "op3": "Non-Zakatable",
+            "op4": "Exempt"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Which of the following must be excluded from Zakat base?",
+        "options": {
+            "op1": "Cash",
+            "op2": "Loans",
+            "op3": "Inventory",
+            "op4": "Fixed assets"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "The principle of Al-Hawl applies to Zakat over:",
+        "options": {
+            "op1": "354 days",
+            "op2": "360 days",
+            "op3": "365 days",
+            "op4": "Monthly"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Zakatable income for construction sector includes:",
+        "options": {
+            "op1": "Capital expenses",
+            "op2": "Revenue from services",
+            "op3": "Personal expenses",
+            "op4": "Depreciation"
+        },
+        "answer": "op2"
+    }
+]

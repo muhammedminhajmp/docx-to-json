@@ -1,0 +1,402 @@
+[
+    {
+        "question": "What is the purpose of Zakat?",
+        "options": {
+            "op1": "Tax Collection",
+            "op2": "Charity",
+            "op3": "Financial worship and social solidarity",
+            "op4": "Business regulation"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Who is responsible for the levy and collection of Zakat in Saudi Arabia?",
+        "options": {
+            "op1": "Ministry of Finance",
+            "op2": "General Authority of Zakat & Tax",
+            "op3": "Royal Court",
+            "op4": "National Bank"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "According to Islamic Sharia, Zakat is primarily intended to:",
+        "options": {
+            "op1": "Promote charity",
+            "op2": "Fund business investments",
+            "op3": "Fight poverty and support the needy",
+            "op4": "None of the above"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Zakat is the ____ pillar of Islam.",
+        "options": {
+            "op1": "First",
+            "op2": "Second",
+            "op3": "Third",
+            "op4": "Fourth"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "What is the percentage rate of Zakat usually applied to Zakatable assets?",
+        "options": {
+            "op1": "1%",
+            "op2": "2.5%",
+            "op3": "5%",
+            "op4": "7%"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "The Zakat year consists of how many lunar months?",
+        "options": {
+            "op1": "10 months",
+            "op2": "12 months",
+            "op3": "14 months",
+            "op4": "11 months"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Which of the following items is NOT included in the Zakat base?",
+        "options": {
+            "op1": "Fixed Assets",
+            "op2": "Cash in hand",
+            "op3": "Inventory",
+            "op4": "Loans received"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "What does Al-Hawl refer to in the context of Zakat?",
+        "options": {
+            "op1": "A fiscal quarter",
+            "op2": "A complete Hijri year",
+            "op3": "A week",
+            "op4": "A month"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Who can issue a certificate exempting a payer from Zakat?",
+        "options": {
+            "op1": "Ministry of Finance",
+            "op2": "General Authority of Zakat & Tax",
+            "op3": "Company's accountant",
+            "op4": "Zakat payer"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "How is the Zakat base calculated using the Direct Method?",
+        "options": {
+            "op1": "By deducting obligations from Zakatable assets",
+            "op2": "By adding all non-Zakatable assets",
+            "op3": "Using only profits",
+            "op4": "None of these"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "What is the main reason for calculating Zakat?",
+        "options": {
+            "op1": "To encourage saving",
+            "op2": "To promote business growth",
+            "op3": "To support the needy and achieve social solidarity",
+            "op4": "To regulate foreign investments"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Which of the following is included in the Zakat base calculation?",
+        "options": {
+            "op1": "External financing sources",
+            "op2": "Revenue from loans",
+            "op3": "Sales revenue",
+            "op4": "Only personal expenses"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "For a Zakat payer with commercial books, what method is used for calculating the Zakat base?",
+        "options": {
+            "op1": "Deductibles Method",
+            "op2": "Addition and Deduction Method",
+            "op3": "Direct Funding Method",
+            "op4": "Accounts Method"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "When is a Zakat declaration required to be submitted?",
+        "options": {
+            "op1": "Every month",
+            "op2": "Annually",
+            "op3": "Only when requested",
+            "op4": "Every five years"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "In the case of no commercial books, which method does the General Authority use for calculating Zakat?",
+        "options": {
+            "op1": "Assumed Base Method",
+            "op2": "Average Calculation Method",
+            "op3": "Deemed Calculation Method",
+            "op4": "Manual Calculation"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Which of the following items are considered deductible assets?",
+        "options": {
+            "op1": "Fixed assets used in the business",
+            "op2": "All cash on hand",
+            "op3": "External investment only",
+            "op4": "Company's profits"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "What is the purpose of Zakat-related obligations?",
+        "options": {
+            "op1": "To reduce the Zakat base",
+            "op2": "To determine the total income",
+            "op3": "To regulate capital inflow",
+            "op4": "To identify taxable income"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Which of the following is NOT subject to Zakat?",
+        "options": {
+            "op1": "Personal savings",
+            "op2": "Business profits",
+            "op3": "Inventory for sale",
+            "op4": "Property under development"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "What percentage is used for Zakat on adjusted profit?",
+        "options": {
+            "op1": "1%",
+            "op2": "5%",
+            "op3": "2.5%",
+            "op4": "10%"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Which authority is authorized to oversee and ensure Zakat compliance?",
+        "options": {
+            "op1": "Ministry of Commerce",
+            "op2": "General Authority of Zakat & Tax",
+            "op3": "Local Municipality",
+            "op4": "Private Auditors"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What is the main reason for calculating Zakat?",
+        "options": {
+            "op1": "To encourage saving",
+            "op2": "To promote business growth",
+            "op3": "To support the needy and achieve social solidarity",
+            "op4": "To regulate foreign investments"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Which of the following is included in the Zakat base calculation?",
+        "options": {
+            "op1": "External financing sources",
+            "op2": "Revenue from loans",
+            "op3": "Sales revenue",
+            "op4": "Only personal expenses"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "For a Zakat payer with commercial books, what method is used for calculating the Zakat base?",
+        "options": {
+            "op1": "Deductibles Method",
+            "op2": "Addition and Deduction Method",
+            "op3": "Direct Funding Method",
+            "op4": "Accounts Method"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "When is a Zakat declaration required to be submitted?",
+        "options": {
+            "op1": "Every month",
+            "op2": "Annually",
+            "op3": "Only when requested",
+            "op4": "Every five years"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "In the case of no commercial books, which method does the General Authority use for calculating Zakat?",
+        "options": {
+            "op1": "Assumed Base Method",
+            "op2": "Average Calculation Method",
+            "op3": "Deemed Calculation Method",
+            "op4": "Manual Calculation"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Which of the following items are considered deductible assets?",
+        "options": {
+            "op1": "Fixed assets used in the business",
+            "op2": "All cash on hand",
+            "op3": "External investment only",
+            "op4": "Company's profits"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "What is the purpose of Zakat-related obligations?",
+        "options": {
+            "op1": "To reduce the Zakat base",
+            "op2": "To determine the total income",
+            "op3": "To regulate capital inflow",
+            "op4": "To identify taxable income"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Which of the following is NOT subject to Zakat?",
+        "options": {
+            "op1": "Personal savings",
+            "op2": "Business profits",
+            "op3": "Inventory for sale",
+            "op4": "Property under development"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "What percentage is used for Zakat on adjusted profit?",
+        "options": {
+            "op1": "1%",
+            "op2": "5%",
+            "op3": "2.5%",
+            "op4": "10%"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Which authority is authorized to oversee and ensure Zakat compliance?",
+        "options": {
+            "op1": "Ministry of Commerce",
+            "op2": "General Authority of Zakat & Tax",
+            "op3": "Local Municipality",
+            "op4": "Private Auditors"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Which document needs to be filed by a Zakat payer to declare their Zakat base?",
+        "options": {
+            "op1": "Zakat Statement",
+            "op2": "Annual Zakat Report",
+            "op3": "Zakat Declaration",
+            "op4": "Income Statement"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "How does the Authority handle cases where a Zakat payer does not maintain commercial books?",
+        "options": {
+            "op1": "Uses deemed calculation",
+            "op2": "Issues a fine",
+            "op3": "Requests external audit",
+            "op4": "Exempts from Zakat"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "What is the penalty for failure to submit Zakat declarations on time?",
+        "options": {
+            "op1": "Increased Zakat base",
+            "op2": "Late fee penalty",
+            "op3": "Exemption from Zakat",
+            "op4": "There is no penalty"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "If a Zakat payer has an obligation that finances deductible assets, it will be:",
+        "options": {
+            "op1": "Added to Zakat base",
+            "op2": "Ignored",
+            "op3": "Deducted from Zakat base",
+            "op4": "Doubled"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Which of the following expenses may be deducted for Zakat purposes?",
+        "options": {
+            "op1": "Capital expenses",
+            "op2": "Personal expenses",
+            "op3": "Necessary business expenses",
+            "op4": "Unverified expenses"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "What is required for salaries of partners to be deducted?",
+        "options": {
+            "op1": "Registration with General Organization for Social Insurance",
+            "op2": "Payment by cash",
+            "op3": "Declaration by the owner",
+            "op4": "None of the above"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "The base for calculating Zakat for companies is generally:",
+        "options": {
+            "op1": "The company's total revenue",
+            "op2": "The Zakatable assets minus deductible liabilities",
+            "op3": "Total income minus expenses",
+            "op4": "Only capital investments"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What term describes the fiscal year for Zakat purposes?",
+        "options": {
+            "op1": "Zakat Year",
+            "op2": "Gregorian Year",
+            "op3": "Financial Period",
+            "op4": "Fiscal Cycle"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "In case of foreign investments, Zakat is applied only if:",
+        "options": {
+            "op1": "The investment is short-term",
+            "op2": "Zakat is not paid in the home country",
+            "op3": "It is trading stock",
+            "op4": "The profit is reinvested"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Which assets are considered non-Zakatable?",
+        "options": {
+            "op1": "Fixed assets used in the business",
+            "op2": "Inventory",
+            "op3": "Cash reserves",
+            "op4": "Trade receivables"
+        },
+        "answer": "op1"
+    }
+]

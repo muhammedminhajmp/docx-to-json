@@ -1,0 +1,392 @@
+[
+    {
+        "question": "Which activities are included in the Information and Communication Services sector?",
+        "options": {
+            "op1": "Publishing activities",
+            "op2": "Computer programming",
+            "op3": "Telecommunications",
+            "op4": "All of the above"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "What is the formula used to calculate the Zakat base for this sector?",
+        "options": {
+            "op1": "Income - Expenses",
+            "op2": "Revenue - Liabilities",
+            "op3": "Additions - Deductibles",
+            "op4": "Sales + Capital"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "In Zakat calculation, contract costs for the Information and Communication sector are considered:",
+        "options": {
+            "op1": "Deductible assets",
+            "op2": "Non-deductible assets",
+            "op3": "Intangible assets",
+            "op4": "Capital assets"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "The sector of information and communication services includes:",
+        "options": {
+            "op1": "Only broadcasting",
+            "op2": "Only data processing",
+            "op3": "Only telecommunications",
+            "op4": "All of the above"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "Which of the following is added to the Zakat base?",
+        "options": {
+            "op1": "Net fixed assets",
+            "op2": "Revenue and advance payments",
+            "op3": "Intangible assets",
+            "op4": "Incorporation expenses"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Networks and communication equipment are considered:",
+        "options": {
+            "op1": "Zakatable assets",
+            "op2": "Non-deductible",
+            "op3": "Deductible assets",
+            "op4": "Current liabilities"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "What percentage is used to calculate Zakat on the Zakat base?",
+        "options": {
+            "op1": "1%",
+            "op2": "2%",
+            "op3": "2.5%",
+            "op4": "3%"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Contract assets for the Information and Communication sector are classified as:",
+        "options": {
+            "op1": "Zakatable assets",
+            "op2": "Non-deductible assets",
+            "op3": "Fixed assets",
+            "op4": "Non-current liabilities"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Telecommunication licenses in the sector are considered:",
+        "options": {
+            "op1": "Non-deductible",
+            "op2": "Deductible assets",
+            "op3": "Liabilities",
+            "op4": "Intangible assets"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Which of the following items is not deducted from the Zakat base?",
+        "options": {
+            "op1": "Revenue",
+            "op2": "Capital work in progress",
+            "op3": "Incorporation expenses",
+            "op4": "Net fixed assets"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "For the Information and Communication sector, deferred revenue from government grants is:",
+        "options": {
+            "op1": "Deducted",
+            "op2": "Added to the Zakat base",
+            "op3": "Ignored",
+            "op4": "Exempt"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Intangible assets that are irrevocable rights of use are:",
+        "options": {
+            "op1": "Non-zakatable assets",
+            "op2": "Zakatable assets",
+            "op3": "Liabilities",
+            "op4": "Capital"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Prepaid and recharge cards are:",
+        "options": {
+            "op1": "Non-deductible assets",
+            "op2": "Deductible assets",
+            "op3": "Revenue",
+            "op4": "Exempt assets"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Deferred financial obligations from government grants are:",
+        "options": {
+            "op1": "Added to Zakat base if under 354 days",
+            "op2": "Exempt from Zakat",
+            "op3": "Only included if current",
+            "op4": "Ignored entirely"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "The Zakat year begins with:",
+        "options": {
+            "op1": "First day of Hijri year",
+            "op2": "When commercial register is issued",
+            "op3": "Any start date",
+            "op4": "When profits are declared"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Government grant revenue classified as non-current liability is:",
+        "options": {
+            "op1": "Exempt",
+            "op2": "Deducted",
+            "op3": "Added to Zakat base",
+            "op4": "Ignored"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "The Zakat base must not be less than:",
+        "options": {
+            "op1": "2% of revenue",
+            "op2": "Net profit",
+            "op3": "Adjusted net profit",
+            "op4": "2.5% of total assets"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Which of the following is NOT an addition in the Zakat base?",
+        "options": {
+            "op1": "Long-term liabilities",
+            "op2": "Capital",
+            "op3": "Net fixed assets",
+            "op4": "Retained earnings"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "When Zakat is calculated for a period shorter than 354 days, it is:",
+        "options": {
+            "op1": "Adjusted for actual days",
+            "op2": "Exempt",
+            "op3": "Deferred",
+            "op4": "Increased"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Zakat on telecom licenses is calculated as:",
+        "options": {
+            "op1": "Non-zakatable",
+            "op2": "Zakatable",
+            "op3": "Current asset",
+            "op4": "Fixed liability"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Which of the following is added to the Zakat base in Information and Communication sector?",
+        "options": {
+            "op1": "Long-term liabilities",
+            "op2": "Zakatable investment",
+            "op3": "Incorporation expenses",
+            "op4": "Revenue from contract obligations"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Which assets are non-deductible in Zakat calculation?",
+        "options": {
+            "op1": "Prepaid recharge cards",
+            "op2": "Networks and servers",
+            "op3": "Telephones on customer site",
+            "op4": "Incorporation expenses"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "IT systems and servers used in operations are classified as:",
+        "options": {
+            "op1": "Non-deductible",
+            "op2": "Intangible assets",
+            "op3": "Deductible assets",
+            "op4": "Non-current liabilities"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Non-zakatable assets include:",
+        "options": {
+            "op1": "Capital",
+            "op2": "Revenue",
+            "op3": "Intangible assets",
+            "op4": "Advance payments"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "What is the Zakat treatment for telecommunication equipment?",
+        "options": {
+            "op1": "Included as revenue",
+            "op2": "Deductible assets",
+            "op3": "Ignored",
+            "op4": "Zakatable asset"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What is the base rate for calculating Zakat annually?",
+        "options": {
+            "op1": "2%",
+            "op2": "2.5%",
+            "op3": "3%",
+            "op4": "1.5%"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "For Information sector companies, contract obligations are:",
+        "options": {
+            "op1": "Zakatable",
+            "op2": "Deducted",
+            "op3": "Exempt",
+            "op4": "Added to base if funds used"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "Incorporation expenses are:",
+        "options": {
+            "op1": "Non-deductible",
+            "op2": "Deductible from Zakat base",
+            "op3": "Current liabilities",
+            "op4": "Included in revenue"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Zakat on current assets in this sector applies when:",
+        "options": {
+            "op1": "They are below 1% threshold",
+            "op2": "Held for sale",
+            "op3": "Used in government contracts",
+            "op4": "Over 25% of sales"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "When government grant revenue is used for deductible assets, it is:",
+        "options": {
+            "op1": "Excluded from Zakat",
+            "op2": "Deducted",
+            "op3": "Added to Zakat base",
+            "op4": "Zakat exempt"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Advance payments in the Information sector are treated as:",
+        "options": {
+            "op1": "Revenue",
+            "op2": "Liabilities",
+            "op3": "Non-zakatable",
+            "op4": "Zakatable assets"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Which type of assets are treated as Zakatable assets?",
+        "options": {
+            "op1": "Contract assets",
+            "op2": "Networks and servers",
+            "op3": "Contract costs",
+            "op4": "Capital"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Which of the following is a non-current liability?",
+        "options": {
+            "op1": "Deferred revenue from grants",
+            "op2": "Capital",
+            "op3": "Contract obligations",
+            "op4": "Intangible assets"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Production of audiovisual materials is classified as:",
+        "options": {
+            "op1": "Non-deductible asset",
+            "op2": "Deductible asset",
+            "op3": "Capital expenditure",
+            "op4": "Zakatable investment"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "For the Information sector, intangible assets are considered:",
+        "options": {
+            "op1": "Fixed assets",
+            "op2": "Non-deductible",
+            "op3": "Deductible assets",
+            "op4": "Revenue"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Deferred grant revenue used in financing is:",
+        "options": {
+            "op1": "Zakatable if current",
+            "op2": "Non-zakatable",
+            "op3": "Deductible",
+            "op4": "Added to Zakat base"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "If fiscal period is less than 354 days, Zakat is:",
+        "options": {
+            "op1": "Not required",
+            "op2": "Deferred",
+            "op3": "Pro-rated",
+            "op4": "Non-deductible"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "In the Information sector, government grants used for contract obligations are:",
+        "options": {
+            "op1": "Deducted",
+            "op2": "Added to Zakat base",
+            "op3": "Ignored",
+            "op4": "Classified as liabilities"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Publishing activities in the Information sector are:",
+        "options": {
+            "op1": "Not included",
+            "op2": "Included and zakatable",
+            "op3": "Non-deductible",
+            "op4": "Deducted as capital"
+        },
+        "answer": "op2"
+    }
+]

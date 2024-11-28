@@ -1,0 +1,392 @@
+[
+    {
+        "question": "The agriculture sector for Zakat purposes includes which of the following activities?",
+        "options": {
+            "op1": "Crop cultivation",
+            "op2": "Animal breeding",
+            "op3": "Collection of timber",
+            "op4": "All of the above"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "What percentage of the Zakat base is required to be paid in Zakat for a Hijri year?",
+        "options": {
+            "op1": "1.5%",
+            "op2": "2%",
+            "op3": "2.5%",
+            "op4": "3%"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Agricultural biological assets, like fruit trees, are:",
+        "options": {
+            "op1": "Zakatable",
+            "op2": "Deductible from the Zakat base",
+            "op3": "Counted as liabilities",
+            "op4": "Considered as inventory"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Animal biological assets, such as live animals, are classified as:",
+        "options": {
+            "op1": "Zakatable",
+            "op2": "Non-zakatable",
+            "op3": "Current assets",
+            "op4": "Inventory"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Inventories of fish and shrimp intended for sale are considered:",
+        "options": {
+            "op1": "Zakatable",
+            "op2": "Non-zakatable",
+            "op3": "Capital investments",
+            "op4": "Liabilities"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Zakat on agricultural activities is calculated using:",
+        "options": {
+            "op1": "Direct method",
+            "op2": "Indirect method",
+            "op3": "Average method",
+            "op4": "Standard method"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "For agricultural Zakat payers, agricultural inputs like seeds and fertilizers are:",
+        "options": {
+            "op1": "Zakatable assets",
+            "op2": "Deductible assets",
+            "op3": "Current liabilities",
+            "op4": "Intangible assets"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Which of the following is an example of agricultural biological assets?",
+        "options": {
+            "op1": "Fish inventory",
+            "op2": "Stored grain",
+            "op3": "Fruit trees",
+            "op4": "Cash in bank"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "The Zakat base calculation for agriculture uses:",
+        "options": {
+            "op1": "Adjusted profit",
+            "op2": "All internal and external funds",
+            "op3": "Only liabilities",
+            "op4": "Cash reserves only"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Which of the following is added to the Zakat base in agriculture?",
+        "options": {
+            "op1": "Agricultural biological assets",
+            "op2": "Current liabilities",
+            "op3": "Long-term liabilities",
+            "op4": "Intangible assets"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "The minimum Zakat base cannot be less than:",
+        "options": {
+            "op1": "The adjusted net profit",
+            "op2": "Capital deposits",
+            "op3": "Total liabilities",
+            "op4": "Sales revenue"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "When does the Zakat payer\u2019s fiscal year start?",
+        "options": {
+            "op1": "After capital deposit",
+            "op2": "On any preferred date",
+            "op3": "Issuance of commercial register",
+            "op4": "VAT registration"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Zakat is exempt for agricultural assets that are:",
+        "options": {
+            "op1": "Held for sale",
+            "op2": "Intended for personal use",
+            "op3": "For external investment",
+            "op4": "Agricultural biological assets"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "Agricultural inventories meant for sale are:",
+        "options": {
+            "op1": "Deductible",
+            "op2": "Liabilities",
+            "op3": "Non-zakatable",
+            "op4": "Zakatable assets"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "Agricultural inputs purchased for production purposes are:",
+        "options": {
+            "op1": "Zakatable assets",
+            "op2": "Non-zakatable assets",
+            "op3": "Intangible assets",
+            "op4": "Current liabilities"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "The Zakat base in agriculture includes which of the following?",
+        "options": {
+            "op1": "Only current liabilities",
+            "op2": "Fixed assets",
+            "op3": "Long-term liabilities",
+            "op4": "Inventory"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "In agricultural Zakat, biological assets that provide continual benefits, like laying hens, are:",
+        "options": {
+            "op1": "Deducted from Zakat base",
+            "op2": "Included in Zakat base",
+            "op3": "Taxable at 1%",
+            "op4": "Considered as current assets"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Zakat for agriculture on inventory items is applicable when:",
+        "options": {
+            "op1": "Items are held for production",
+            "op2": "Items are for sale",
+            "op3": "Items are for personal use",
+            "op4": "Items are borrowed"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "When Zakat is calculated for a different fiscal period, it is adjusted by:",
+        "options": {
+            "op1": "Changing rate to 2%",
+            "op2": "Annualizing the period",
+            "op3": "Increasing rate to 3%",
+            "op4": "Reducing liabilities"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "For Zakat purposes, agricultural biological assets are classified as:",
+        "options": {
+            "op1": "Current assets",
+            "op2": "Liabilities",
+            "op3": "Non-zakatable assets",
+            "op4": "Zakatable assets"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Inventory intended for sale, such as vegetables, is:",
+        "options": {
+            "op1": "Excluded from Zakat base",
+            "op2": "Deducted as liability",
+            "op3": "Counted as Zakatable asset",
+            "op4": "Considered intangible asset"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Agricultural items that are not intended for sale include:",
+        "options": {
+            "op1": "Stored grain",
+            "op2": "Fruits on trees",
+            "op3": "Livestock for milk production",
+            "op4": "Both b and c"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "Zakatable assets in agriculture exclude:",
+        "options": {
+            "op1": "Inventories for sale",
+            "op2": "Livestock for breeding",
+            "op3": "Capital deposits",
+            "op4": "Revenue"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Which of the following are deductible from the Zakat base?",
+        "options": {
+            "op1": "Current liabilities",
+            "op2": "Zakatable investments",
+            "op3": "Agricultural biological assets",
+            "op4": "Revenue"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "The calculation method used by Zakat authorities for agricultural entities is called:",
+        "options": {
+            "op1": "Direct method",
+            "op2": "Sources of funds method",
+            "op3": "Revenue-based method",
+            "op4": "Cost method"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What is the purpose of Zakat in the agricultural sector?",
+        "options": {
+            "op1": "Increase production",
+            "op2": "Support government spending",
+            "op3": "Purify wealth",
+            "op4": "None"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Inventories held for sale in agriculture are considered:",
+        "options": {
+            "op1": "Non-current assets",
+            "op2": "Current assets",
+            "op3": "Fixed assets",
+            "op4": "Capital work"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "The minimum Zakat payment is 2.5% unless the fiscal period is:",
+        "options": {
+            "op1": "Less than 254 days",
+            "op2": "More than 400 days",
+            "op3": "Less than 354 days",
+            "op4": "Exactly 365 days"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Animal production includes which of the following?",
+        "options": {
+            "op1": "Cultivating grains",
+            "op2": "Milk production",
+            "op3": "Tree planting",
+            "op4": "None"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Agricultural activities do not include:",
+        "options": {
+            "op1": "Breeding animals",
+            "op2": "Industrial manufacturing",
+            "op3": "Planting crops",
+            "op4": "Collecting timber"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What percentage is used to calculate Zakat annually?",
+        "options": {
+            "op1": "1.5%",
+            "op2": "2%",
+            "op3": "2.5%",
+            "op4": "3%"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "A short financial period under 354 days is:",
+        "options": {
+            "op1": "Exempt from Zakat",
+            "op2": "Taxed at reduced rate",
+            "op3": "Annualized",
+            "op4": "Considered a full period"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "In agriculture, which of these is considered Zakatable?",
+        "options": {
+            "op1": "Agricultural inputs",
+            "op2": "Harvested crops held for sale",
+            "op3": "Capital work",
+            "op4": "Provisions"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Revenue from animal products is:",
+        "options": {
+            "op1": "Excluded from Zakat",
+            "op2": "Included in Zakat base",
+            "op3": "Deducted from Zakat base",
+            "op4": "Non-taxable"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "The agriculture sector for Zakat includes:",
+        "options": {
+            "op1": "Livestock breeding",
+            "op2": "Manufacturing",
+            "op3": "Construction",
+            "op4": "Real estate"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Agricultural biological assets held for continual yield are:",
+        "options": {
+            "op1": "Liabilities",
+            "op2": "Non-zakatable assets",
+            "op3": "Zakatable assets",
+            "op4": "Capital"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What happens if the fiscal period is less than 354 days?",
+        "options": {
+            "op1": "Zakat is adjusted",
+            "op2": "Zakat is exempted",
+            "op3": "Liabilities are deducted",
+            "op4": "Capital is increased"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Agricultural items intended for sale are included as:",
+        "options": {
+            "op1": "Capital reserves",
+            "op2": "Non-zakatable assets",
+            "op3": "Zakatable assets",
+            "op4": "Intangible assets"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Which assets are non-deductible for Zakat purposes?",
+        "options": {
+            "op1": "Current liabilities",
+            "op2": "Capital",
+            "op3": "Zakatable investments",
+            "op4": "Biological assets for use"
+        },
+        "answer": "op3"
+    }
+]

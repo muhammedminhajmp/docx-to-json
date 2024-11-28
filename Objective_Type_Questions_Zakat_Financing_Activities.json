@@ -1,0 +1,382 @@
+[
+    {
+        "question": "The implementing regulations for Zakat levying for financing activities were issued under which Ministerial Resolution?",
+        "options": {
+            "op1": "2200",
+            "op2": "2215",
+            "op3": "2216",
+            "op4": "2220"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "The Zakat base for financing activities is calculated by:",
+        "options": {
+            "op1": "Assets - Liabilities",
+            "op2": "Sources of funds x (zakatable assets \u00f7 total assets)",
+            "op3": "Income - Expenses",
+            "op4": "Equity x Total Assets"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What is the minimum Zakat limit for financing activities based on gross profit?",
+        "options": {
+            "op1": "40%",
+            "op2": "50%",
+            "op3": "30%",
+            "op4": "25%"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "The Zakat year can be:",
+        "options": {
+            "op1": "Only Hijri",
+            "op2": "Only Gregorian",
+            "op3": "Hijri or Gregorian",
+            "op4": "Only fiscal quarter"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Who licenses banks and finance companies subject to Zakat in Saudi Arabia?",
+        "options": {
+            "op1": "Saudi Ministry of Finance",
+            "op2": "Saudi Central Bank (SAMA)",
+            "op3": "Zakat, Tax and Customs Authority",
+            "op4": "Ministry of Commerce"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "The maximum limit for Zakat base in financing activities can be:",
+        "options": {
+            "op1": "5x net profit",
+            "op2": "6x gross profit",
+            "op3": "8x net profit",
+            "op4": "10x gross profit"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Net profit in financing activities refers to:",
+        "options": {
+            "op1": "Profit after tax",
+            "op2": "Profit before Zakat provision",
+            "op3": "Gross profit",
+            "op4": "Revenue"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What is excluded from Zakat calculation for non-residents?",
+        "options": {
+            "op1": "Assets in Saudi Arabia",
+            "op2": "Liabilities",
+            "op3": "External sources",
+            "op4": "None"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Which of the following assets is deductible in Zakat calculation for financing activities?",
+        "options": {
+            "op1": "Non-zakatable assets",
+            "op2": "Investment in government bonds",
+            "op3": "Intangible assets",
+            "op4": "Net fixed assets"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "The Zakat base for financing activities excludes:",
+        "options": {
+            "op1": "Net fixed assets",
+            "op2": "Total assets",
+            "op3": "Net profit",
+            "op4": "Total liabilities"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "In financing Zakat, hedging refers to:",
+        "options": {
+            "op1": "Reducing liabilities",
+            "op2": "Financial instruments to hedge cash flows",
+            "op3": "Increasing Zakat rate",
+            "op4": "Lowering Zakat base"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Consolidation of financial statements is allowable if:",
+        "options": {
+            "op1": "Zakat payer owns all assets",
+            "op2": "Zakat payer subject to same rules owns company",
+            "op3": "No equity shares",
+            "op4": "Zakat payer has 50% ownership"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Zakat on investments in government bonds is:",
+        "options": {
+            "op1": "Deducted from Zakat base",
+            "op2": "Included in total assets",
+            "op3": "Added to liabilities",
+            "op4": "Excluded as government pays on behalf"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "Which formula represents the Zakat base calculation?",
+        "options": {
+            "op1": "Net profit x total assets",
+            "op2": "Gross profit - liabilities",
+            "op3": "Sources of funds x (zakatable assets \u00f7 total assets)",
+            "op4": "Capital - liabilities"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Who is considered a resident for Zakat purposes?",
+        "options": {
+            "op1": "Anyone in Saudi Arabia",
+            "op2": "Person meeting residency in Article 3",
+            "op3": "Only Saudi citizens",
+            "op4": "Anyone with property in Saudi Arabia"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "The minimum Zakat limit for net profit in financing activities is:",
+        "options": {
+            "op1": "4x net profit",
+            "op2": "5x net profit",
+            "op3": "8x net profit",
+            "op4": "6x net profit"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Total liabilities are classified as:",
+        "options": {
+            "op1": "Non-zakatable",
+            "op2": "Sources of funds",
+            "op3": "Net assets",
+            "op4": "Excluded"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Equity in financing Zakat base is treated as:",
+        "options": {
+            "op1": "Deductible",
+            "op2": "Non-zakatable",
+            "op3": "Source of funds",
+            "op4": "Excluded"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Gross profit is defined as:",
+        "options": {
+            "op1": "Total income - indirect costs",
+            "op2": "Total income - direct expenses",
+            "op3": "Revenue only",
+            "op4": "Profit after Zakat provision"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "If a Zakat payer has no income, the Zakat base is calculated by:",
+        "options": {
+            "op1": "Minimum net profit requirement",
+            "op2": "Maximum limit",
+            "op3": "Standard Zakat percentage",
+            "op4": "No Zakat levied"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "The concept of hedging in Zakat calculation involves:",
+        "options": {
+            "op1": "Reducing Zakat liability",
+            "op2": "Protecting against asset fluctuations",
+            "op3": "Income generation",
+            "op4": "Lowering tax base"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Real estate under mortgage execution is:",
+        "options": {
+            "op1": "Deductible",
+            "op2": "Zakatable asset",
+            "op3": "Source of funds",
+            "op4": "Non-zakatable"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Zakat is levied on financing activities at a rate of:",
+        "options": {
+            "op1": "1%",
+            "op2": "2%",
+            "op3": "2.5%",
+            "op4": "3%"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "The consolidation of financial statements for Zakat purposes is:",
+        "options": {
+            "op1": "Optional",
+            "op2": "Mandatory",
+            "op3": "Restricted to same-rule companies",
+            "op4": "Not allowed"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Financing activities include:",
+        "options": {
+            "op1": "Manufacturing",
+            "op2": "Retail",
+            "op3": "Banking and finance companies",
+            "op4": "Real estate"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Sources of funds subject to Zakat exclude:",
+        "options": {
+            "op1": "Equity",
+            "op2": "Capital",
+            "op3": "Government grants",
+            "op4": "Liabilities due in one year"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Financial derivatives due after a year are classified as:",
+        "options": {
+            "op1": "Non-deductible",
+            "op2": "Zakatable asset",
+            "op3": "Non-zakatable asset",
+            "op4": "Source of funds"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "Non-residents are excluded from Zakat calculation if:",
+        "options": {
+            "op1": "Assets are overseas",
+            "op2": "Under SAMA regulations",
+            "op3": "They hold no Saudi assets",
+            "op4": "Registered in another country"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "In Zakat, 'hedging' is used for:",
+        "options": {
+            "op1": "Limiting losses",
+            "op2": "Enhancing returns",
+            "op3": "Offsetting Zakat liabilities",
+            "op4": "Protecting against financial fluctuations"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "What is the primary regulator for financing Zakat?",
+        "options": {
+            "op1": "Zakat, Tax and Customs Authority",
+            "op2": "Saudi Central Bank",
+            "op3": "Ministry of Commerce",
+            "op4": "Saudi Revenue Department"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "For Zakat, the term 'Zakatable assets' means:",
+        "options": {
+            "op1": "Total assets",
+            "op2": "Assets excluded from liabilities",
+            "op3": "Zakatable portion of assets",
+            "op4": "Gross profit"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Zakat on financing activities must consider:",
+        "options": {
+            "op1": "Capital value only",
+            "op2": "Sources of funds",
+            "op3": "Total gross profit",
+            "op4": "Expenditure"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Which assets are deductible from Zakat base?",
+        "options": {
+            "op1": "Gross income",
+            "op2": "Non-zakatable assets",
+            "op3": "Total equity",
+            "op4": "Sales revenue"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Investment in foreign entities is subject to:",
+        "options": {
+            "op1": "Full Zakat",
+            "op2": "Partial Zakat",
+            "op3": "Separate Zakat per regulation",
+            "op4": "No Zakat"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Which assets are added to Zakat base in financing activities?",
+        "options": {
+            "op1": "Debt-only assets",
+            "op2": "Government-issued investments",
+            "op3": "Long-term liabilities",
+            "op4": "Equity"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "The method for calculating Zakat in financing includes:",
+        "options": {
+            "op1": "Fixed rate",
+            "op2": "Direct asset calculation",
+            "op3": "Proportional allocation",
+            "op4": "Simple subtraction"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Which is NOT a Zakatable asset for financing?",
+        "options": {
+            "op1": "Real estate under mortgage",
+            "op2": "Debt over one year",
+            "op3": "SAMA deposits",
+            "op4": "Foreign investment"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "Government bonds exempt Zakat because:",
+        "options": {
+            "op1": "Liabilities are deferred",
+            "op2": "Government pays on behalf",
+            "op3": "They are deductible",
+            "op4": "Not considered assets"
+        },
+        "answer": "op2"
+    }
+]

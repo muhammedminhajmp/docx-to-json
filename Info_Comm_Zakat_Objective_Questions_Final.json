@@ -1,0 +1,402 @@
+[
+    {
+        "question": "What is the primary purpose of Zakat in Islamic finance?",
+        "options": {
+            "op1": "Revenue generation",
+            "op2": "Social welfare",
+            "op3": "Business regulation",
+            "op4": "Promoting foreign investment"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Who is responsible for Zakat collection in Saudi Arabia?",
+        "options": {
+            "op1": "Ministry of Commerce",
+            "op2": "General Authority of Zakat & Tax",
+            "op3": "Ministry of Finance",
+            "op4": "Zakat Committee"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What percentage of Zakat is generally applied to Zakatable assets?",
+        "options": {
+            "op1": "1%",
+            "op2": "2.5%",
+            "op3": "5%",
+            "op4": "7.5%"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Which entity is exempt from Zakat?",
+        "options": {
+            "op1": "Fixed assets used for business",
+            "op2": "Cash on hand",
+            "op3": "Inventory",
+            "op4": "Accounts receivable"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "What does 'Al-Hawl' refer to in the context of Zakat?",
+        "options": {
+            "op1": "A fiscal year",
+            "op2": "A full lunar year",
+            "op3": "One business quarter",
+            "op4": "A month"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "For entities maintaining commercial books, Zakat is calculated using:",
+        "options": {
+            "op1": "Direct assessment",
+            "op2": "Addition and deduction method",
+            "op3": "Proportional method",
+            "op4": "Estimated assessment"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What is the role of the General Authority of Zakat & Tax?",
+        "options": {
+            "op1": "Business promotion",
+            "op2": "Regulating imports",
+            "op3": "Zakat collection and oversight",
+            "op4": "Auditing corporate taxes"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Zakat must be paid within how many months of the fiscal year-end?",
+        "options": {
+            "op1": "1 month",
+            "op2": "3 months",
+            "op3": "6 months",
+            "op4": "12 months"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What is the purpose of the Zakat declaration form?",
+        "options": {
+            "op1": "Registering business",
+            "op2": "Calculating personal tax",
+            "op3": "Declaring Zakatable assets",
+            "op4": "Applying for exemptions"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "What is the minimum Zakat base for businesses?",
+        "options": {
+            "op1": "Fixed income",
+            "op2": "Zakatable assets minus liabilities",
+            "op3": "Gross revenue",
+            "op4": "Only profits"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Who is tasked with overseeing compliance of Zakat regulations?",
+        "options": {
+            "op1": "Local councils",
+            "op2": "Zakat, Tax, and Customs Authority",
+            "op3": "Ministry of Labor",
+            "op4": "Local municipality"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "For foreign investments, Zakat is applied if:",
+        "options": {
+            "op1": "Not paid in the country of origin",
+            "op2": "Business exceeds SAR 1 million",
+            "op3": "Investor is non-resident",
+            "op4": "Subject to Saudi taxation"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "In the Information and Communication Services sector, Zakat rate of 2.5% applies to:",
+        "options": {
+            "op1": "Only inventory",
+            "op2": "Liquid and Zakatable assets",
+            "op3": "Revenue",
+            "op4": "Salaries"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Which item is NOT deducted from the Zakat base?",
+        "options": {
+            "op1": "Fixed assets",
+            "op2": "Cash held for operations",
+            "op3": "Loans",
+            "op4": "Inventory"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "If the Zakat base is lower than adjusted profit, Zakat is calculated on:",
+        "options": {
+            "op1": "Adjusted profit",
+            "op2": "Zakat base",
+            "op3": "Net income",
+            "op4": "Total assets"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "What document must each Zakat payer submit annually?",
+        "options": {
+            "op1": "Zakat Statement",
+            "op2": "Profit & Loss Account",
+            "op3": "Zakat Declaration",
+            "op4": "Financial Summary"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Who is tasked with overseeing compliance of Zakat regulations?",
+        "options": {
+            "op1": "Local councils",
+            "op2": "Zakat, Tax, and Customs Authority",
+            "op3": "Ministry of Labor",
+            "op4": "Local municipality"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "For foreign investments, Zakat is applied if:",
+        "options": {
+            "op1": "Not paid in the country of origin",
+            "op2": "Business exceeds SAR 1 million",
+            "op3": "Investor is non-resident",
+            "op4": "Subject to Saudi taxation"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "In the Information and Communication Services sector, Zakat rate of 2.5% applies to:",
+        "options": {
+            "op1": "Only inventory",
+            "op2": "Liquid and Zakatable assets",
+            "op3": "Revenue",
+            "op4": "Salaries"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Which item is NOT deducted from the Zakat base?",
+        "options": {
+            "op1": "Fixed assets",
+            "op2": "Cash held for operations",
+            "op3": "Loans",
+            "op4": "Inventory"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "If the Zakat base is lower than adjusted profit, Zakat is calculated on:",
+        "options": {
+            "op1": "Adjusted profit",
+            "op2": "Zakat base",
+            "op3": "Net income",
+            "op4": "Total assets"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "What document must each Zakat payer submit annually?",
+        "options": {
+            "op1": "Zakat Statement",
+            "op2": "Profit & Loss Account",
+            "op3": "Zakat Declaration",
+            "op4": "Financial Summary"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Who is tasked with overseeing compliance of Zakat regulations?",
+        "options": {
+            "op1": "Local councils",
+            "op2": "Zakat, Tax, and Customs Authority",
+            "op3": "Ministry of Labor",
+            "op4": "Local municipality"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "For foreign investments, Zakat is applied if:",
+        "options": {
+            "op1": "Not paid in the country of origin",
+            "op2": "Business exceeds SAR 1 million",
+            "op3": "Investor is non-resident",
+            "op4": "Subject to Saudi taxation"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "In the Information and Communication Services sector, Zakat rate of 2.5% applies to:",
+        "options": {
+            "op1": "Only inventory",
+            "op2": "Liquid and Zakatable assets",
+            "op3": "Revenue",
+            "op4": "Salaries"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Which item is NOT deducted from the Zakat base?",
+        "options": {
+            "op1": "Fixed assets",
+            "op2": "Cash held for operations",
+            "op3": "Loans",
+            "op4": "Inventory"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "If the Zakat base is lower than adjusted profit, Zakat is calculated on:",
+        "options": {
+            "op1": "Adjusted profit",
+            "op2": "Zakat base",
+            "op3": "Net income",
+            "op4": "Total assets"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "What document must each Zakat payer submit annually?",
+        "options": {
+            "op1": "Zakat Statement",
+            "op2": "Profit & Loss Account",
+            "op3": "Zakat Declaration",
+            "op4": "Financial Summary"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Who is tasked with overseeing compliance of Zakat regulations?",
+        "options": {
+            "op1": "Local councils",
+            "op2": "Zakat, Tax, and Customs Authority",
+            "op3": "Ministry of Labor",
+            "op4": "Local municipality"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "For foreign investments, Zakat is applied if:",
+        "options": {
+            "op1": "Not paid in the country of origin",
+            "op2": "Business exceeds SAR 1 million",
+            "op3": "Investor is non-resident",
+            "op4": "Subject to Saudi taxation"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "In the Information and Communication Services sector, Zakat rate of 2.5% applies to:",
+        "options": {
+            "op1": "Only inventory",
+            "op2": "Liquid and Zakatable assets",
+            "op3": "Revenue",
+            "op4": "Salaries"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Which item is NOT deducted from the Zakat base?",
+        "options": {
+            "op1": "Fixed assets",
+            "op2": "Cash held for operations",
+            "op3": "Loans",
+            "op4": "Inventory"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "If the Zakat base is lower than adjusted profit, Zakat is calculated on:",
+        "options": {
+            "op1": "Adjusted profit",
+            "op2": "Zakat base",
+            "op3": "Net income",
+            "op4": "Total assets"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "What document must each Zakat payer submit annually?",
+        "options": {
+            "op1": "Zakat Statement",
+            "op2": "Profit & Loss Account",
+            "op3": "Zakat Declaration",
+            "op4": "Financial Summary"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Which of these expenses is NOT deductible for Zakat purposes?",
+        "options": {
+            "op1": "Business expenses",
+            "op2": "Personal expenses",
+            "op3": "Loans for operations",
+            "op4": "Depreciation"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "For Zakat calculation, a Hijri year (Al-Hawl) is equivalent to:",
+        "options": {
+            "op1": "12 calendar months",
+            "op2": "354 days",
+            "op3": "365 days",
+            "op4": "300 days"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "When should Zakat be paid if the financial year ends in December?",
+        "options": {
+            "op1": "By March of the following year",
+            "op2": "By December 31",
+            "op3": "Within one month",
+            "op4": "Anytime within the year"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "The General Authority of Zakat & Tax also handles:",
+        "options": {
+            "op1": "Income tax collection",
+            "op2": "Import regulations",
+            "op3": "Foreign investments",
+            "op4": "Personal taxes"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Which of the following is a Zakatable asset?",
+        "options": {
+            "op1": "Real estate for personal use",
+            "op2": "Inventory held for sale",
+            "op3": "Fixed equipment",
+            "op4": "Business vehicles"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Zakat is not applicable to assets:",
+        "options": {
+            "op1": "Used for charity",
+            "op2": "Owned by minors",
+            "op3": "Generating income",
+            "op4": "Held for personal use"
+        },
+        "answer": "op4"
+    }
+]

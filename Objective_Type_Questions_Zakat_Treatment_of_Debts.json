@@ -1,0 +1,382 @@
+[
+    {
+        "question": "Which of the following types of debt is added to the Zakat base?",
+        "options": {
+            "op1": "Short-term debt under 354 days",
+            "op2": "Long-term debt spanning over two Zakat years",
+            "op3": "Debt paid within one fiscal year",
+            "op4": "Equity debt"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "How are advance payments treated for Zakat calculation?",
+        "options": {
+            "op1": "They are fully deductible",
+            "op2": "The lesser of beginning or end of the year balance is added to the base",
+            "op3": "They are included only if renewed",
+            "op4": "They are not added"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Bad debts can be deducted if:",
+        "options": {
+            "op1": "They are from an activity and were previously reported as revenue",
+            "op2": "They are related to government dues",
+            "op3": "They are liabilities from an external creditor",
+            "op4": "None of the above"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "What is required for bad debt deduction?",
+        "options": {
+            "op1": "Approval from a government official",
+            "op2": "Proof of a bad debt cancellation decision",
+            "op3": "Debt paid within the fiscal year",
+            "op4": "Proof of related party obligation"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Long-term loans are added to the Zakat base under what condition?",
+        "options": {
+            "op1": "Debt arises for a short-term obligation",
+            "op2": "Debt spans over 354 days",
+            "op3": "Debt remains unpaid for 2 years",
+            "op4": "Debt has reached zero value"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "If a debt is replaced by another debt, the treatment is:",
+        "options": {
+            "op1": "Exempt from Zakat",
+            "op2": "Added as a new debt",
+            "op3": "Added without interruption",
+            "op4": "Removed from Zakat base"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Which of the following loans are NOT added to Zakat base?",
+        "options": {
+            "op1": "Short-term loans for assets",
+            "op2": "Long-term loans",
+            "op3": "Debts renewed within the year",
+            "op4": "Current debts used for deductible financing"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Which paragraph outlines government and commercial finance treatment for Zakat?",
+        "options": {
+            "op1": "Paragraph 1",
+            "op2": "Paragraph 3",
+            "op3": "Paragraph 5",
+            "op4": "Paragraph 7"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Obligations transferred from equity to debts should be:",
+        "options": {
+            "op1": "Ignored in Zakat base",
+            "op2": "Added to Zakat base as internal funds",
+            "op3": "Deducted as liabilities",
+            "op4": "Reported separately"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "For long-term debts added mid-year, Zakat is based on:",
+        "options": {
+            "op1": "The full debt value",
+            "op2": "Amount used before end of year",
+            "op3": "Days remaining in the year",
+            "op4": "Only principal"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Short-term revolving loans are added to Zakat if:",
+        "options": {
+            "op1": "Zero balance for over 10 days",
+            "op2": "Balance reaches zero value",
+            "op3": "Balance stays above zero",
+            "op4": "Held longer than 2 years"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "The Zakat treatment for employees' advance payments is:",
+        "options": {
+            "op1": "Added if long-term",
+            "op2": "Exempt",
+            "op3": "Considered current liabilities",
+            "op4": "Added if short-term"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "How is current debt of partners treated?",
+        "options": {
+            "op1": "Exempt",
+            "op2": "Added to Zakat base",
+            "op3": "Deducted from Zakat base",
+            "op4": "Only included if used"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Government dues are included in Zakat if they meet which criteria?",
+        "options": {
+            "op1": "Short-term only",
+            "op2": "Obligation criteria",
+            "op3": "Deductible criteria",
+            "op4": "Prepaid in advance"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Zakat treatment for provisions involves:",
+        "options": {
+            "op1": "Only deducting used amount",
+            "op2": "Adding all provisions",
+            "op3": "Adding the balance less used amount",
+            "op4": "No Zakat on provisions"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "The Zakat treatment for accrued loans is:",
+        "options": {
+            "op1": "Exempt if paid within year",
+            "op2": "Added to base if for deductible asset",
+            "op3": "Exempt",
+            "op4": "Deducted"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Which of the following qualifies for Zakat deduction?",
+        "options": {
+            "op1": "Advance payments at year end",
+            "op2": "Long-term debts",
+            "op3": "Unpaid bills",
+            "op4": "Employee obligations"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "The Zakat base for long-term debt at year-end is limited to:",
+        "options": {
+            "op1": "All obligations",
+            "op2": "Deductible financing",
+            "op3": "All debts regardless of duration",
+            "op4": "Amount of deductible financing"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "How are revolving loans treated for Zakat?",
+        "options": {
+            "op1": "Added only if above zero balance",
+            "op2": "Exempt if renewed",
+            "op3": "Added at beginning of year only",
+            "op4": "Deducted"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Short-term debts are generally:",
+        "options": {
+            "op1": "Exempt",
+            "op2": "Deductible",
+            "op3": "Added to Zakat base",
+            "op4": "Ignored"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Long-term loans added mid-year must consider:",
+        "options": {
+            "op1": "The loan duration",
+            "op2": "Principal only",
+            "op3": "Days remaining",
+            "op4": "Zakat year-end"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Provisions during the Zakat year are added to:",
+        "options": {
+            "op1": "Gross revenue",
+            "op2": "Adjusted profit/loss",
+            "op3": "Equity",
+            "op4": "Liabilities"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Trade receivables for Zakat purposes are:",
+        "options": {
+            "op1": "Exempt",
+            "op2": "Deductible",
+            "op3": "Added as income",
+            "op4": "Zakatable asset"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "Zakat treatment requires that liabilities financing deductible items are:",
+        "options": {
+            "op1": "Ignored",
+            "op2": "Added to Zakat base",
+            "op3": "Deducted",
+            "op4": "Not considered"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "A debt obligation renewed within the year is:",
+        "options": {
+            "op1": "Exempt",
+            "op2": "Interrupted and removed",
+            "op3": "Continued without interruption",
+            "op4": "Only partially added"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Short-term loans in financing a fixed asset are:",
+        "options": {
+            "op1": "Exempt",
+            "op2": "Added to Zakat base",
+            "op3": "Added if renewed",
+            "op4": "Deducted from base"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "If debt is rescheduled, Zakat treatment is:",
+        "options": {
+            "op1": "Exemption applies",
+            "op2": "Continuous addition",
+            "op3": "Deducted",
+            "op4": "Deferred"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Current debts related to deductible assets are:",
+        "options": {
+            "op1": "Added fully",
+            "op2": "Exempt",
+            "op3": "Partially added",
+            "op4": "Ignored"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Trade receivables for non-deductible activities are:",
+        "options": {
+            "op1": "Exempt",
+            "op2": "Zakatable",
+            "op3": "Ignored",
+            "op4": "Deferred"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Debt classified as long-term during the year end limits additions to:",
+        "options": {
+            "op1": "30%",
+            "op2": "Deductible financing amount",
+            "op3": "Zakat base only",
+            "op4": "Total liabilities"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "How is equity treated in debt financing for Zakat?",
+        "options": {
+            "op1": "Deducted",
+            "op2": "Considered Zakatable",
+            "op3": "Treated as capital",
+            "op4": "Exempt"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Loans under government dues are added if:",
+        "options": {
+            "op1": "Debt exceeds 354 days",
+            "op2": "Held by related parties",
+            "op3": "Used for non-current asset",
+            "op4": "Meets obligation criteria"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "Advance payments added to Zakat base include:",
+        "options": {
+            "op1": "Full amount only",
+            "op2": "Lesser of beginning or end balance",
+            "op3": "Only excess amount",
+            "op4": "Total obligation"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "In financing Zakat, employee advances are:",
+        "options": {
+            "op1": "Exempt",
+            "op2": "Added if deductible",
+            "op3": "Zakatable",
+            "op4": "Added if long-term"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "The value of provisions less used amount is:",
+        "options": {
+            "op1": "Added to Zakat base",
+            "op2": "Exempt",
+            "op3": "Deducted from equity",
+            "op4": "Ignored"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Government loans for short-term purposes are:",
+        "options": {
+            "op1": "Deducted",
+            "op2": "Added to Zakat base",
+            "op3": "Exempt",
+            "op4": "Zakatable at full value"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Debt obligations used for equity purposes are:",
+        "options": {
+            "op1": "Deducted",
+            "op2": "Excluded",
+            "op3": "Treated as Zakatable",
+            "op4": "Deferred"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Advance payments at year-end are:",
+        "options": {
+            "op1": "Deducted",
+            "op2": "Zakatable if used",
+            "op3": "Added if obligation exists",
+            "op4": "Included if lesser balance"
+        },
+        "answer": "op4"
+    }
+]

@@ -1,0 +1,402 @@
+[
+    {
+        "question": "What does the real estate activities sector include?",
+        "options": {
+            "op1": "Property leasing",
+            "op2": "Real estate agent services",
+            "op3": "Buying and selling real estate",
+            "op4": "All of the above"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "Which of the following is deducted from the Zakat base?",
+        "options": {
+            "op1": "Reserves",
+            "op2": "Capital",
+            "op3": "Net fixed assets",
+            "op4": "Advanced revenue"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "What is the minimum Zakat base for real estate companies?",
+        "options": {
+            "op1": "0",
+            "op2": "Net profit",
+            "op3": "Net assets",
+            "op4": "Adjusted profit"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "The Zakat base for companies holding commercial books is calculated using:",
+        "options": {
+            "op1": "Direct method",
+            "op2": "Indirect method",
+            "op3": "Average method",
+            "op4": "Estimated method"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What must be added to the Zakat base?",
+        "options": {
+            "op1": "Net profit",
+            "op2": "Liabilities",
+            "op3": "Assets",
+            "op4": "Intangible assets"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What is the Zakat rate applied on the Zakat Base?",
+        "options": {
+            "op1": "1%",
+            "op2": "2%",
+            "op3": "2.5%",
+            "op4": "3%"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "The Zakat payer\u2019s fiscal year begins with:",
+        "options": {
+            "op1": "Commercial Registration issuance",
+            "op2": "VAT submission",
+            "op3": "Payment deadline",
+            "op4": "ZATCA notification"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Real estate developed for sale is deducted if:",
+        "options": {
+            "op1": "It is not a current asset",
+            "op2": "It exceeds 25% in value",
+            "op3": "It is for personal use",
+            "op4": "It has zero sales"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Advance payments received for off-plan sales are recorded under:",
+        "options": {
+            "op1": "Current assets",
+            "op2": "Current liabilities",
+            "op3": "Long-term assets",
+            "op4": "Net profit"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "In finance leases, the leased asset is deducted from the Zakat base for:",
+        "options": {
+            "op1": "The lessee",
+            "op2": "The lessor",
+            "op3": "Both parties",
+            "op4": "Neither party"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Real estate held for possession and use is classified as:",
+        "options": {
+            "op1": "Zakatable asset",
+            "op2": "Non-zakatable asset",
+            "op3": "Liability",
+            "op4": "Net profit"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Zakat on real estate activities is based on:",
+        "options": {
+            "op1": "Sales only",
+            "op2": "Rentals only",
+            "op3": "Zakatable assets minus liabilities",
+            "op4": "Capital only"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "If the total sales exceed 25% of the real estate under development, then:",
+        "options": {
+            "op1": "It is deducted from Zakat",
+            "op2": "It is considered zakatable",
+            "op3": "No changes occur",
+            "op4": "It reduces liabilities"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What must be classified as non-current assets in financial statements?",
+        "options": {
+            "op1": "Assets in current use",
+            "op2": "Real estate developed for sale",
+            "op3": "Sales revenue",
+            "op4": "Loan payments"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "The executive regulation number for levying zakat is:",
+        "options": {
+            "op1": "2016",
+            "op2": "2216",
+            "op3": "3416",
+            "op4": "4421"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Properties under development for personal possession are:",
+        "options": {
+            "op1": "Exempt from Zakat",
+            "op2": "Deducted from Zakat base",
+            "op3": "Included in Zakat base",
+            "op4": "Taxable at reduced rate"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "When can real estate under development be deducted?",
+        "options": {
+            "op1": "When classified as current asset",
+            "op2": "When exceeding 25% sales",
+            "op3": "When not for sale",
+            "op4": "When government-owned"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Liabilities for off-plan sales are recorded under:",
+        "options": {
+            "op1": "Fixed assets",
+            "op2": "Non-current assets",
+            "op3": "Current liabilities",
+            "op4": "Zakatable items"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "What is the Zakat due if a property has no recorded sales?",
+        "options": {
+            "op1": "Minimum SAR 500",
+            "op2": "Exempt",
+            "op3": "Based on VAT",
+            "op4": "Zero"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "What percentage of advance payments and sales makes a real estate development zakatable?",
+        "options": {
+            "op1": "10%",
+            "op2": "15%",
+            "op3": "20%",
+            "op4": "25%"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "Which sector's assets are subject to Zakat?",
+        "options": {
+            "op1": "Financial only",
+            "op2": "Industrial only",
+            "op3": "All sectors",
+            "op4": "Real estate only"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "When can a lessee deduct an asset in a finance lease?",
+        "options": {
+            "op1": "After full payment",
+            "op2": "If it\u2019s a fixed asset",
+            "op3": "If it\u2019s rented",
+            "op4": "In any case"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Zakat is applicable on real estate assets when:",
+        "options": {
+            "op1": "Used personally",
+            "op2": "For sale only",
+            "op3": "Classified as liabilities",
+            "op4": "Classified as investments"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Advance revenue is categorized as:",
+        "options": {
+            "op1": "Current asset",
+            "op2": "Current liability",
+            "op3": "Non-current asset",
+            "op4": "Zakatable base"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Zakat on off-plan sales is calculated when:",
+        "options": {
+            "op1": "Asset is current",
+            "op2": "Asset is non-current",
+            "op3": "Sales exceed 25%",
+            "op4": "Sales are below 25%"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Which is not included in the Zakat base calculation?",
+        "options": {
+            "op1": "Equity",
+            "op2": "Current assets",
+            "op3": "Intangible assets",
+            "op4": "Non-zakatable assets"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "Real estate brokerage services are part of:",
+        "options": {
+            "op1": "Retail sector",
+            "op2": "Industrial sector",
+            "op3": "Real estate sector",
+            "op4": "Finance sector"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Which of the following is considered non-zakatable?",
+        "options": {
+            "op1": "Cash in bank",
+            "op2": "Inventory",
+            "op3": "Fixed assets for personal use",
+            "op4": "Receivables"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Zakat for companies with no financial records is calculated using:",
+        "options": {
+            "op1": "Direct assessment",
+            "op2": "Indirect method",
+            "op3": "Estimated method",
+            "op4": "Standard formula"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "The Zakat base includes:",
+        "options": {
+            "op1": "Revenue only",
+            "op2": "Sales and profits",
+            "op3": "All sources of internal funds",
+            "op4": "Only capital"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Which of the following is a deductible asset?",
+        "options": {
+            "op1": "Cash",
+            "op2": "Accounts receivable",
+            "op3": "Property under development for possession",
+            "op4": "Capital"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Real estate developers report advance client payments as:",
+        "options": {
+            "op1": "Current assets",
+            "op2": "Current liabilities",
+            "op3": "Revenue",
+            "op4": "Non-zakatable"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Zakat collection responsibilities are overseen by:",
+        "options": {
+            "op1": "Ministry of Commerce",
+            "op2": "Central Bank",
+            "op3": "ZATCA",
+            "op4": "Municipalities"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Zakat declaration for companies should include:",
+        "options": {
+            "op1": "Net sales only",
+            "op2": "Net assets only",
+            "op3": "Net income only",
+            "op4": "Total zakatable base"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "If a taxpayer has no financial activity, the Zakat payment is:",
+        "options": {
+            "op1": "Zero",
+            "op2": "SAR 500",
+            "op3": "Based on previous year",
+            "op4": "Exempt"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Advance payments for real estate projects are considered:",
+        "options": {
+            "op1": "Net income",
+            "op2": "Current assets",
+            "op3": "Deductible assets",
+            "op4": "Liabilities"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "What is not added to the Zakat base?",
+        "options": {
+            "op1": "Capital",
+            "op2": "Reserves",
+            "op3": "Zakatable investments",
+            "op4": "Adjusted net profit"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Real estate activities include:",
+        "options": {
+            "op1": "Only buying property",
+            "op2": "Only leasing property",
+            "op3": "Buying, selling, and leasing",
+            "op4": "None"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "For the lessee in a financial lease, the asset is considered:",
+        "options": {
+            "op1": "Current liability",
+            "op2": "Non-zakatable asset",
+            "op3": "Revenue",
+            "op4": "Deductible"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Zakat is levied at:",
+        "options": {
+            "op1": "1%",
+            "op2": "2%",
+            "op3": "2.5%",
+            "op4": "3%"
+        },
+        "answer": "op3"
+    }
+]

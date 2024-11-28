@@ -1,0 +1,402 @@
+[
+    {
+        "question": "1. What is the primary purpose of Zakat?",
+        "options": [
+            "A. Wealth redistribution",
+            "B. Tax revenue",
+            "C. Business regulation",
+            "D. Encouraging savings"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "2. Which authority is responsible for Zakat collection in Saudi Arabia?",
+        "options": [
+            "A. Ministry of Finance",
+            "B. General Authority of Zakat & Tax",
+            "C. Local Municipality",
+            "D. Social Security Agency"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "3. What is the standard Zakat rate applied to Zakatable assets?",
+        "options": [
+            "A. 1%",
+            "B. 2.5%",
+            "C. 3%",
+            "D. 5%"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "4. Which of these is NOT a Zakatable asset?",
+        "options": [
+            "A. Fixed assets used for business",
+            "B. Cash on hand",
+            "C. Trade inventory",
+            "D. Accounts receivable"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "5. In Zakat, 'Al-Hawl' refers to:",
+        "options": [
+            "A. A fiscal year",
+            "B. A Hijri year",
+            "C. A business quarter",
+            "D. Half a year"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "6. Zakat must be paid within how many months after the end of the fiscal year?",
+        "options": [
+            "A. 1 month",
+            "B. 3 months",
+            "C. 6 months",
+            "D. 12 months"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "7. The Zakat base for entities with commercial books is calculated using:",
+        "options": [
+            "A. Inventory method",
+            "B. Direct addition method",
+            "C. Addition and deduction method",
+            "D. Revenue estimation"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "8. Which of the following is included in the Zakat base?",
+        "options": [
+            "A. Personal loans",
+            "B. Non-Zakatable assets",
+            "C. Inventory",
+            "D. Deductibles"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "9. What does 'deemed calculation' mean in Zakat practices?",
+        "options": [
+            "A. Estimated based on non-standard records",
+            "B. Applied to accurate records only",
+            "C. No calculation needed",
+            "D. Randomized basis"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "10. In the context of Zakat, 'resident' refers to:",
+        "options": [
+            "A. A person who visits frequently",
+            "B. Any taxpayer",
+            "C. A person meeting residency requirements",
+            "D. Only citizens"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "11. What is the role of the General Authority of Zakat & Tax?",
+        "options": [
+            "A. Manage charity organizations",
+            "B. Oversee business contracts",
+            "C. Collect and oversee Zakat",
+            "D. Regulate imports"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "12. Who is required to file a Zakat declaration?",
+        "options": [
+            "A. All companies",
+            "B. Only individual taxpayers",
+            "C. Any Zakat payer",
+            "D. Foreign investors only"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "13. How does Zakat apply to foreign investments?",
+        "options": [
+            "A. Always taxed",
+            "B. Exempted if paid abroad",
+            "C. Calculated only on profit",
+            "D. Exempted for non-residents"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "14. The term 'Zakatable year' (Al-Hawl) means:",
+        "options": [
+            "A. 12 calendar months",
+            "B. 354 days",
+            "C. 6 months",
+            "D. 300 days"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "15. Zakat at 2.5% applies to:",
+        "options": [
+            "A. Fixed assets only",
+            "B. Liquid and Zakatable assets",
+            "C. All revenue",
+            "D. Property assets only"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "16. Which asset is generally not deducted from the Zakat base?",
+        "options": [
+            "A. Personal savings",
+            "B. Business inventory",
+            "C. Fixed assets",
+            "D. Obligations"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "17. What is the role of the General Authority of Zakat & Tax?",
+        "options": [
+            "A. Manage charity organizations",
+            "B. Oversee business contracts",
+            "C. Collect and oversee Zakat",
+            "D. Regulate imports"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "18. Who is required to file a Zakat declaration?",
+        "options": [
+            "A. All companies",
+            "B. Only individual taxpayers",
+            "C. Any Zakat payer",
+            "D. Foreign investors only"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "19. How does Zakat apply to foreign investments?",
+        "options": [
+            "A. Always taxed",
+            "B. Exempted if paid abroad",
+            "C. Calculated only on profit",
+            "D. Exempted for non-residents"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "20. The term 'Zakatable year' (Al-Hawl) means:",
+        "options": [
+            "A. 12 calendar months",
+            "B. 354 days",
+            "C. 6 months",
+            "D. 300 days"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "21. Zakat at 2.5% applies to:",
+        "options": [
+            "A. Fixed assets only",
+            "B. Liquid and Zakatable assets",
+            "C. All revenue",
+            "D. Property assets only"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "22. Which asset is generally not deducted from the Zakat base?",
+        "options": [
+            "A. Personal savings",
+            "B. Business inventory",
+            "C. Fixed assets",
+            "D. Obligations"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "23. What is the role of the General Authority of Zakat & Tax?",
+        "options": [
+            "A. Manage charity organizations",
+            "B. Oversee business contracts",
+            "C. Collect and oversee Zakat",
+            "D. Regulate imports"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "24. Who is required to file a Zakat declaration?",
+        "options": [
+            "A. All companies",
+            "B. Only individual taxpayers",
+            "C. Any Zakat payer",
+            "D. Foreign investors only"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "25. How does Zakat apply to foreign investments?",
+        "options": [
+            "A. Always taxed",
+            "B. Exempted if paid abroad",
+            "C. Calculated only on profit",
+            "D. Exempted for non-residents"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "26. The term 'Zakatable year' (Al-Hawl) means:",
+        "options": [
+            "A. 12 calendar months",
+            "B. 354 days",
+            "C. 6 months",
+            "D. 300 days"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "27. Zakat at 2.5% applies to:",
+        "options": [
+            "A. Fixed assets only",
+            "B. Liquid and Zakatable assets",
+            "C. All revenue",
+            "D. Property assets only"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "28. Which asset is generally not deducted from the Zakat base?",
+        "options": [
+            "A. Personal savings",
+            "B. Business inventory",
+            "C. Fixed assets",
+            "D. Obligations"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "29. What is the role of the General Authority of Zakat & Tax?",
+        "options": [
+            "A. Manage charity organizations",
+            "B. Oversee business contracts",
+            "C. Collect and oversee Zakat",
+            "D. Regulate imports"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "30. Who is required to file a Zakat declaration?",
+        "options": [
+            "A. All companies",
+            "B. Only individual taxpayers",
+            "C. Any Zakat payer",
+            "D. Foreign investors only"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "31. How does Zakat apply to foreign investments?",
+        "options": [
+            "A. Always taxed",
+            "B. Exempted if paid abroad",
+            "C. Calculated only on profit",
+            "D. Exempted for non-residents"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "32. The term 'Zakatable year' (Al-Hawl) means:",
+        "options": [
+            "A. 12 calendar months",
+            "B. 354 days",
+            "C. 6 months",
+            "D. 300 days"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "33. Zakat at 2.5% applies to:",
+        "options": [
+            "A. Fixed assets only",
+            "B. Liquid and Zakatable assets",
+            "C. All revenue",
+            "D. Property assets only"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "34. Which asset is generally not deducted from the Zakat base?",
+        "options": [
+            "A. Personal savings",
+            "B. Business inventory",
+            "C. Fixed assets",
+            "D. Obligations"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "35. Which expense is NOT deductible for Zakat purposes?",
+        "options": [
+            "A. Business expenses",
+            "B. Personal expenses",
+            "C. Loans used for operations",
+            "D. Depreciation"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "36. What is the Zakat payer\u2019s primary obligation?",
+        "options": [
+            "A. Submit regular reports",
+            "B. Calculate taxes only",
+            "C. File a Zakat declaration",
+            "D. Register with local municipality"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "37. The Zakat declaration is mandatory for:",
+        "options": [
+            "A. Foreign investors only",
+            "B. All residents",
+            "C. Eligible Zakat payers",
+            "D. Sole proprietorships only"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "38. A short-term loan used to finance deductible assets is:",
+        "options": [
+            "A. Exempt from Zakat",
+            "B. Added to Zakat base",
+            "C. Ignored in calculations",
+            "D. Deducted from profits"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "39. In the event of a company's legal form conversion, Zakat is:",
+        "options": [
+            "A. Not affected",
+            "B. Paid immediately",
+            "C. Waived",
+            "D. Converted to tax"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "40. For investments in non-trading companies outside the Kingdom, Zakat is:",
+        "options": [
+            "A. Exempted",
+            "B. Paid directly by investors",
+            "C. Applied based on profit",
+            "D. Calculated at a fixed rate"
+        ],
+        "answer": "C"
+    }
+]

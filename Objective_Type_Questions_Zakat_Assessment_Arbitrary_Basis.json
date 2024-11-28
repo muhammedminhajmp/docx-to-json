@@ -1,0 +1,402 @@
+[
+    {
+        "question": "The Zakat assessment on an arbitrary basis is based on which Ministerial Resolution?",
+        "options": {
+            "op1": "No. 2082",
+            "op2": "No. 2216",
+            "op3": "No. 2502",
+            "op4": "No. 3144"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "What is the minimum Zakat payment for Zakat payers assessed on an arbitrary basis?",
+        "options": {
+            "op1": "SAR 100",
+            "op2": "SAR 250",
+            "op3": "SAR 500",
+            "op4": "SAR 1,000"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Which of the following formulas is used to calculate the Zakat base for arbitrary assessment?",
+        "options": {
+            "op1": "Sales x 15%",
+            "op2": "Sales / 10",
+            "op3": "Sales / 8 + (Sales x 15%)",
+            "op4": "Sales / 5"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Zakat payers without commercial books base their Zakat on:",
+        "options": {
+            "op1": "Estimated capital",
+            "op2": "Direct income",
+            "op3": "Employee count",
+            "op4": "Total liabilities"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "When using arbitrary assessment, how is sales data typically obtained?",
+        "options": {
+            "op1": "From employee count",
+            "op2": "From import data",
+            "op3": "VAT return data",
+            "op4": "Based on liabilities"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "If a Zakat payer has SAR 1,000,000 in sales, the Zakat base is:",
+        "options": {
+            "op1": "SAR 250,000",
+            "op2": "SAR 125,000",
+            "op3": "SAR 275,000",
+            "op4": "SAR 300,000"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "The Zakat base for arbitrary assessment considers sales and:",
+        "options": {
+            "op1": "Imports",
+            "op2": "Total liabilities",
+            "op3": "15% of sales",
+            "op4": "Capital investments"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "For arbitrary assessment, how is employee count data obtained?",
+        "options": {
+            "op1": "Payroll records",
+            "op2": "GOSI data",
+            "op3": "Tax filings",
+            "op4": "Import declarations"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "In addition to VAT returns, Zakat sales data may include:",
+        "options": {
+            "op1": "Imports only",
+            "op2": "POS and contracts",
+            "op3": "Payroll data",
+            "op4": "Only taxed sales"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "If no sales are recorded, Zakat can be assessed using:",
+        "options": {
+            "op1": "Sales / 10",
+            "op2": "Employee count and imports",
+            "op3": "Capital only",
+            "op4": "Purchase data"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Zakat year based on arbitrary assessment is typically:",
+        "options": {
+            "op1": "Gregorian",
+            "op2": "Fiscal",
+            "op3": "Lunar",
+            "op4": "Fixed annual"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "The fiscal year for Zakat payers starts with:",
+        "options": {
+            "op1": "First sales",
+            "op2": "Receipt of commercial registration",
+            "op3": "Employee registration",
+            "op4": "Approval of Zakat return"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "A short financial period for Zakat purposes must be at least:",
+        "options": {
+            "op1": "354 days",
+            "op2": "300 days",
+            "op3": "250 days",
+            "op4": "400 days"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "If a Zakat payer lacks VAT data, sales are calculated using:",
+        "options": {
+            "op1": "Income statements",
+            "op2": "POS and export data",
+            "op3": "Payroll records",
+            "op4": "Expense projections"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "How often can a Zakat payer switch to regular accounting from arbitrary assessment?",
+        "options": {
+            "op1": "Once a year",
+            "op2": "Anytime",
+            "op3": "Before fiscal year-end",
+            "op4": "Upon approval"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "The minimum Zakat payment even with no recorded activity is:",
+        "options": {
+            "op1": "SAR 100",
+            "op2": "SAR 500",
+            "op3": "SAR 250",
+            "op4": "SAR 1,000"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Imports for Zakat calculation under arbitrary assessment are calculated as:",
+        "options": {
+            "op1": "Imports x 10%",
+            "op2": "Imports x 100%",
+            "op3": "Imports x 115%",
+            "op4": "Imports x 150%"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Purchases for VAT purposes impact Zakat calculations at:",
+        "options": {
+            "op1": "Full value",
+            "op2": "Only imports",
+            "op3": "115% of value",
+            "op4": "Sales tax rate"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "If Zakat payer has no employees, minimum Zakat is:",
+        "options": {
+            "op1": "Calculated as zero",
+            "op2": "SAR 500",
+            "op3": "Waived",
+            "op4": "Reduced by half"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "The method to calculate Zakat on sales for arbitrary assessment uses:",
+        "options": {
+            "op1": "Sales and employee count",
+            "op2": "Sales / 8 + 15%",
+            "op3": "Imports and POS data",
+            "op4": "Gross income only"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "If Zakat payer does not have VAT returns, what is used?",
+        "options": {
+            "op1": "Payroll records",
+            "op2": "POS data and contracts",
+            "op3": "Expense reports",
+            "op4": "Import declarations"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "The short financial period for Zakat purposes is exempt if under:",
+        "options": {
+            "op1": "200 days",
+            "op2": "300 days",
+            "op3": "354 days",
+            "op4": "400 days"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "A Zakat payer may move from arbitrary assessment to regular books if:",
+        "options": {
+            "op1": "Approved by the Director",
+            "op2": "Requested before year-end",
+            "op3": "Total assets are high",
+            "op4": "Only with Tax approval"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Zakat for arbitrary assessment relies on:",
+        "options": {
+            "op1": "Net profit",
+            "op2": "Capital only",
+            "op3": "Employee count",
+            "op4": "Sales and imports"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "In addition to VAT, Zakat assessment may include:",
+        "options": {
+            "op1": "Only GOSI data",
+            "op2": "Employee count and imports",
+            "op3": "Capital calculations",
+            "op4": "Sales projections"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "The Zakat Authority may verify sales data from:",
+        "options": {
+            "op1": "Only Ministry of Finance",
+            "op2": "General Customs Authority",
+            "op3": "National Tax Board",
+            "op4": "Any government agency"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Employee data for Zakat calculation is collected via:",
+        "options": {
+            "op1": "SAMA",
+            "op2": "GOSI",
+            "op3": "Tax board",
+            "op4": "Payroll"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Zakat payer\u2019s declaration is typically submitted:",
+        "options": {
+            "op1": "At year start",
+            "op2": "At year-end",
+            "op3": "Within 120 days",
+            "op4": "Every 6 months"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "POS data for Zakat may include:",
+        "options": {
+            "op1": "Only sales above SAR 500",
+            "op2": "Zero-tax sales",
+            "op3": "Taxable and exempt sales",
+            "op4": "Only imports"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Imports used for arbitrary Zakat calculations are based on:",
+        "options": {
+            "op1": "Employee count",
+            "op2": "Purchases x 115%",
+            "op3": "Net assets",
+            "op4": "Annual sales"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Who can approve a Zakat payer's move back to arbitrary assessment?",
+        "options": {
+            "op1": "Settlement Committee",
+            "op2": "GOSI",
+            "op3": "Governor of General Authority",
+            "op4": "Tax Board"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Objections to Zakat assessments can be submitted to:",
+        "options": {
+            "op1": "Ministry of Commerce",
+            "op2": "Settlement Committee",
+            "op3": "Tax Court",
+            "op4": "Finance Department"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "The Zakat payer\u2019s fiscal year based on arbitrary assessment is generally:",
+        "options": {
+            "op1": "354 days",
+            "op2": "365 days",
+            "op3": "Based on activity",
+            "op4": "Fixed at 300 days"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Which department may verify sales in VAT declarations?",
+        "options": {
+            "op1": "Customs Authority",
+            "op2": "SAMA",
+            "op3": "Ministry of Labor",
+            "op4": "Tax Enforcement"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Minimum arbitrary assessment Zakat applies when:",
+        "options": {
+            "op1": "No activity recorded",
+            "op2": "Revenue below SAR 1 million",
+            "op3": "Only imports exist",
+            "op4": "Less than 10 employees"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "For arbitrary assessment, import data is adjusted to:",
+        "options": {
+            "op1": "Gross purchases",
+            "op2": "Employee income",
+            "op3": "115% of value",
+            "op4": "Sales revenue"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Employee count in Zakat assessment may impact:",
+        "options": {
+            "op1": "Only revenue",
+            "op2": "Zakat calculation",
+            "op3": "Imports",
+            "op4": "Capital requirements"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "If VAT data is not available, which is used?",
+        "options": {
+            "op1": "Direct income",
+            "op2": "Sales estimates",
+            "op3": "Payroll taxes",
+            "op4": "Imports"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Sales from VAT and RETT statements are:",
+        "options": {
+            "op1": "Exempt",
+            "op2": "Adjusted",
+            "op3": "Used for Zakat",
+            "op4": "Not included"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Zakat on arbitrary basis relies on data from:",
+        "options": {
+            "op1": "Commercial books",
+            "op2": "Payroll only",
+            "op3": "Sales and imports",
+            "op4": "Net profit only"
+        },
+        "answer": "op3"
+    }
+]

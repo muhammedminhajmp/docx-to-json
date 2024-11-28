@@ -1,0 +1,402 @@
+[
+    {
+        "question": "What is the deadline for submitting a Zakat declaration to avoid an estimated assessment?",
+        "options": {
+            "op1": "100 days",
+            "op2": "120 days",
+            "op3": "90 days",
+            "op4": "150 days"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Which item is not deducted from the Zakat base unless proven used in business operations?",
+        "options": {
+            "op1": "Charitable donations",
+            "op2": "Fixed assets not used in the business",
+            "op3": "Employee wages",
+            "op4": "Office supplies"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What type of assets are classified as non-current in the Zakat financial statements?",
+        "options": {
+            "op1": "Fixed assets",
+            "op2": "Inventory",
+            "op3": "Accounts receivable",
+            "op4": "Cash"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Which authority assesses the Zakat obligation when declaration is not submitted on time?",
+        "options": {
+            "op1": "ZATCA",
+            "op2": "Ministry of Finance",
+            "op3": "Local Government",
+            "op4": "Central Bank"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "For Zakat purposes, what value is recorded for real estate under development?",
+        "options": {
+            "op1": "Market value",
+            "op2": "Original cost",
+            "op3": "Estimated value",
+            "op4": "Book value"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "What percentage of total sales and advance payments disqualifies real estate from Zakat deduction?",
+        "options": {
+            "op1": "10%",
+            "op2": "25%",
+            "op3": "50%",
+            "op4": "75%"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What term refers to profits carried forward for future use in operations?",
+        "options": {
+            "op1": "Retained earnings",
+            "op2": "Profits under distribution",
+            "op3": "Capital gains",
+            "op4": "Asset revaluation"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "When is a charitable endowment company subject to Zakat requirements?",
+        "options": {
+            "op1": "When registered as a business",
+            "op2": "Upon receipt of donations",
+            "op3": "After profit distribution",
+            "op4": "Upon governmental decision"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "The Zakat declaration must include profits retained for what purpose?",
+        "options": {
+            "op1": "Distribution to shareholders",
+            "op2": "Reinvestment in business",
+            "op3": "Charity",
+            "op4": "Employee bonuses"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Which item is included in the Zakat base, even if its owners did not collect it?",
+        "options": {
+            "op1": "Unused assets",
+            "op2": "Profits under distribution",
+            "op3": "Inventory",
+            "op4": "Employee benefits"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What financial statement entry compares with VAT returns for Zakat assessment?",
+        "options": {
+            "op1": "Cash flow",
+            "op2": "Revenue",
+            "op3": "Expenses",
+            "op4": "Net profit"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Which item is non-deductible from the Zakat base due to lack of usage documentation?",
+        "options": {
+            "op1": "Employee wages",
+            "op2": "Unused fixed assets",
+            "op3": "Debts",
+            "op4": "Inventory"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Loans provided by one Zakat payer to another are recorded in which account?",
+        "options": {
+            "op1": "Liabilities",
+            "op2": "Current assets",
+            "op3": "Non-current assets",
+            "op4": "Equity"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "If Zakat requirements are not met, who bears the burden of proof?",
+        "options": {
+            "op1": "ZATCA",
+            "op2": "Zakat payer",
+            "op3": "Auditor",
+            "op4": "Government"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Which document must a company submit for a Zakat audit?",
+        "options": {
+            "op1": "Business plan",
+            "op2": "Tax return",
+            "op3": "Zakat declaration",
+            "op4": "Profit statement"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Profits announced but uncollected by owners fall under which category?",
+        "options": {
+            "op1": "Retained earnings",
+            "op2": "Distributable profits",
+            "op3": "Unclaimed profits",
+            "op4": "Non-taxable income"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "When real estate under development is not for sale, it can be categorized as:",
+        "options": {
+            "op1": "Non-zakatable",
+            "op2": "Zakatable",
+            "op3": "Current asset",
+            "op4": "Equity"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "The authority may reject Zakat deductions if proof is not provided for:",
+        "options": {
+            "op1": "Loan payments",
+            "op2": "Asset usage",
+            "op3": "Charitable donations",
+            "op4": "Revenue streams"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "For Zakat calculation, retained earnings from past years are categorized as:",
+        "options": {
+            "op1": "Income",
+            "op2": "Liability",
+            "op3": "Equity",
+            "op4": "Zakatable profits"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "Which entity requires Zakat registration even if exempt from Zakat?",
+        "options": {
+            "op1": "Public corporations",
+            "op2": "Non-subject Zakat payers",
+            "op3": "International NGOs",
+            "op4": "Individual donors"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "When submitting Zakat, all fixed assets should be:",
+        "options": {
+            "op1": "Fully depreciated",
+            "op2": "Listed at book value",
+            "op3": "Listed at market value",
+            "op4": "Excluded"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Under what condition can ZATCA estimate a Zakat obligation?",
+        "options": {
+            "op1": "Profit announcement",
+            "op2": "Delayed declaration submission",
+            "op3": "Charity involvement",
+            "op4": "Asset sale"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Zakat should be declared within how many days of fiscal year-end?",
+        "options": {
+            "op1": "90",
+            "op2": "120",
+            "op3": "150",
+            "op4": "180"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What classification applies to charitable endowment assets for Zakat purposes?",
+        "options": {
+            "op1": "Business assets",
+            "op2": "Fixed assets",
+            "op3": "Non-zakatable",
+            "op4": "Taxable income"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Profits under distribution are excluded from the Zakat base if:",
+        "options": {
+            "op1": "Used for business",
+            "op2": "Retained earnings",
+            "op3": "Unclaimed by owners",
+            "op4": "Private account use"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "The Zakat declaration must account for which item to reflect accurate assets?",
+        "options": {
+            "op1": "Current liabilities",
+            "op2": "Fixed liabilities",
+            "op3": "Fixed assets",
+            "op4": "Profits under distribution"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "When a Zakat payer fails to verify revenue differences, the authority:",
+        "options": {
+            "op1": "Closes account",
+            "op2": "Imposes penalty",
+            "op3": "Adjusts Zakat base",
+            "op4": "Issues warning"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Which assets are excluded from Zakat base if not directly utilized in business?",
+        "options": {
+            "op1": "Debentures",
+            "op2": "Inventory",
+            "op3": "Unused fixed assets",
+            "op4": "Cash reserves"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "What action is required if Zakat declaration revenue differs from VAT returns?",
+        "options": {
+            "op1": "Resubmit VAT",
+            "op2": "Submit supporting documents",
+            "op3": "Decrease Zakat",
+            "op4": "Claim deduction"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "For Zakat purposes, when must profits under distribution be recorded?",
+        "options": {
+            "op1": "On distribution",
+            "op2": "Annually",
+            "op3": "Upon sale",
+            "op4": "On owner's request"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What type of loans are not deductible from Zakat base when given to investees?",
+        "options": {
+            "op1": "Mortgage loans",
+            "op2": "Debited loans",
+            "op3": "Fixed assets loans",
+            "op4": "Equity loans"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "In a Zakat declaration, which income must be disclosed?",
+        "options": {
+            "op1": "Sales only",
+            "op2": "Investment income",
+            "op3": "Revenue discrepancies",
+            "op4": "Unrealized gains"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "How should unused real estate intended for future development be categorized?",
+        "options": {
+            "op1": "Zakatable",
+            "op2": "Inventory",
+            "op3": "Non-zakatable asset",
+            "op4": "Operating income"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Who must submit Zakat declaration if exempt by governmental ruling?",
+        "options": {
+            "op1": "Non-profit organization",
+            "op2": "Charitable endowment",
+            "op3": "Private donors",
+            "op4": "Small businesses"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Which revenue source is adjusted in Zakat calculation if documentation is lacking?",
+        "options": {
+            "op1": "VAT returns",
+            "op2": "Income statement revenue",
+            "op3": "Cash flow",
+            "op4": "Retained earnings"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Which Zakat item requires proof of business use to qualify for deductions?",
+        "options": {
+            "op1": "Inventory",
+            "op2": "Unused assets",
+            "op3": "Employee benefits",
+            "op4": "Office supplies"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Real estate classified as under development should be treated as:",
+        "options": {
+            "op1": "Taxable",
+            "op2": "Non-zakatable asset",
+            "op3": "Income",
+            "op4": "Liability"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "How does ZATCA handle profits announced but not collected by shareholders?",
+        "options": {
+            "op1": "Add to Zakat base",
+            "op2": "Exclude from Zakat",
+            "op3": "Distribute to owners",
+            "op4": "Transfer to reserves"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "For Zakat purposes, what is the treatment of charitable donations by business entities?",
+        "options": {
+            "op1": "Deduct from Zakat base",
+            "op2": "Add to Zakat base",
+            "op3": "Exclude entirely",
+            "op4": "Report as profit"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Which authority in Saudi Arabia is primarily responsible for Zakat assessment?",
+        "options": {
+            "op1": "ZATCA",
+            "op2": "Ministry of Economy",
+            "op3": "Sharia Council",
+            "op4": "Ministry of Justice"
+        },
+        "answer": "op1"
+    }
+]

@@ -1,0 +1,402 @@
+[
+    {
+        "question": "The Zakat treatment guideline for investments is based on which Ministerial Resolution?",
+        "options": {
+            "op1": "No. 2082",
+            "op2": "No. 2216",
+            "op3": "No. 2502",
+            "op4": "No. 3144"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "For arbitrary-assessed Zakat payers, Zakat is based on which of the following calculations?",
+        "options": {
+            "op1": "Income only",
+            "op2": "Capital only",
+            "op3": "Sales and a percentage of sales",
+            "op4": "Total liabilities"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "What is the minimum Zakat assessment for arbitrary-assessed Zakat payers?",
+        "options": {
+            "op1": "SAR 100",
+            "op2": "SAR 250",
+            "op3": "SAR 500",
+            "op4": "SAR 1,000"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "What method is used for Zakat calculation if the Zakat payer lacks commercial books?",
+        "options": {
+            "op1": "Estimated capital method",
+            "op2": "Direct income calculation",
+            "op3": "Gross profit calculation",
+            "op4": "Net asset valuation"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Zakat base for arbitrary-assessed Zakat payers without financial records is based on:",
+        "options": {
+            "op1": "Average expenses",
+            "op2": "Total income",
+            "op3": "Capital",
+            "op4": "Estimated sales and imports"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "How is the Zakat base calculated if total sales are SAR 1,000,000?",
+        "options": {
+            "op1": "Sales / 10",
+            "op2": "Sales / 8",
+            "op3": "Sales x 15%",
+            "op4": "Sales / 8 + (Sales x 15%)"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "When sales data is not available, which source is used?",
+        "options": {
+            "op1": "Income statements",
+            "op2": "POS data",
+            "op3": "Payroll records",
+            "op4": "Expense reports"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "If a Zakat payer has no recorded labor or activity, the minimum Zakat is:",
+        "options": {
+            "op1": "SAR 250",
+            "op2": "SAR 500",
+            "op3": "SAR 750",
+            "op4": "SAR 1,000"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "The Zakat year begins:",
+        "options": {
+            "op1": "On January 1st",
+            "op2": "On first sales",
+            "op3": "With the issuance of commercial registration or licenses",
+            "op4": "When capital is spent"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Arbitrarily assessed Zakat is calculated using:",
+        "options": {
+            "op1": "Zakat base and rate",
+            "op2": "Adjusted gross income",
+            "op3": "Commercial assets",
+            "op4": "Sales revenue and imports"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "The shift from arbitrary assessment to regular accounting for Zakat requires:",
+        "options": {
+            "op1": "An audit report",
+            "op2": "Permission from Zakat authority",
+            "op3": "Request before year-end",
+            "op4": "Approval from tax committee"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Zakat treatment of investments relies on:",
+        "options": {
+            "op1": "Market value",
+            "op2": "Capital",
+            "op3": "Sales revenue",
+            "op4": "Commercial asset value"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "A Zakat payer's fiscal year must be a minimum of:",
+        "options": {
+            "op1": "354 days",
+            "op2": "300 days",
+            "op3": "200 days",
+            "op4": "360 days"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "When a Zakat payer lacks VAT data, sales are estimated by:",
+        "options": {
+            "op1": "Income average",
+            "op2": "Employee count x 5000",
+            "op3": "POS data and contracts",
+            "op4": "Payroll data"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Zakat assessment minimum limit is SAR:",
+        "options": {
+            "op1": "500",
+            "op2": "1000",
+            "op3": "750",
+            "op4": "200"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "For Zakat, the fiscal year is based on:",
+        "options": {
+            "op1": "Gregorian year only",
+            "op2": "Hijri year or Zakat payer choice",
+            "op3": "Fiscal year ending on January",
+            "op4": "Financial calendar of Saudi Arabia"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Sales data from VAT returns is considered for:",
+        "options": {
+            "op1": "Income tax only",
+            "op2": "Zakat base calculation",
+            "op3": "Investment assessment",
+            "op4": "Annual profit"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Minimum Zakat is assessed even if:",
+        "options": {
+            "op1": "There is no registered labor",
+            "op2": "No income",
+            "op3": "No commercial records",
+            "op4": "Only international sales"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Shifting from arbitrary to regular Zakat assessment requires:",
+        "options": {
+            "op1": "Governor approval",
+            "op2": "Director approval",
+            "op3": "GOSI certification",
+            "op4": "No approval required"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Imports for Zakat purposes are calculated as:",
+        "options": {
+            "op1": "Total imports x 120%",
+            "op2": "Total imports x 110%",
+            "op3": "Total imports x 115%",
+            "op4": "Imports x 10%"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Purchases recorded for VAT are included in Zakat calculations at:",
+        "options": {
+            "op1": "Full amount",
+            "op2": "Half amount",
+            "op3": "Adjusted for inflation",
+            "op4": "115% of value"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "What entity approves objections to Zakat calculations?",
+        "options": {
+            "op1": "Tax Committee",
+            "op2": "Settlement Committee",
+            "op3": "Legal Authority",
+            "op4": "Zakat Authority"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Imports recorded in Zakat calculations use data from:",
+        "options": {
+            "op1": "Ministry of Commerce",
+            "op2": "General Customs Authority",
+            "op3": "POS data",
+            "op4": "National exports agency"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Employee count for Zakat is recorded through:",
+        "options": {
+            "op1": "Payroll records",
+            "op2": "HR department",
+            "op3": "Social Insurance data",
+            "op4": "Tax receipts"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Zakat for companies without activity defaults to:",
+        "options": {
+            "op1": "Higher tax rates",
+            "op2": "Regular Zakat base",
+            "op3": "Minimum assessment",
+            "op4": "Special rates"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "The formula for arbitrary-assessed Zakat includes:",
+        "options": {
+            "op1": "Revenue / 10",
+            "op2": "Total assets",
+            "op3": "Sales / 8 + (Sales x 15%)",
+            "op4": "Gross income"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Zakat for non-trading investments uses:",
+        "options": {
+            "op1": "Estimated sales only",
+            "op2": "Current asset value",
+            "op3": "Historical costs",
+            "op4": "Revenue and fair value"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "If no VAT data is available, sales are calculated using:",
+        "options": {
+            "op1": "Income projections",
+            "op2": "Historical data",
+            "op3": "POS and government platforms",
+            "op4": "Minimum tax requirements"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Minimum limit for Zakat includes an assessment if:",
+        "options": {
+            "op1": "Sales exceed SAR 500",
+            "op2": "No imports are recorded",
+            "op3": "No employees are listed",
+            "op4": "Zakat exceeds capital"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Arbitrary assessment may use which data?",
+        "options": {
+            "op1": "Tax-only data",
+            "op2": "Employee count only",
+            "op3": "Sales and POS data",
+            "op4": "Contractor expenses"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Investment Zakat requires estimation based on:",
+        "options": {
+            "op1": "Only cash flow",
+            "op2": "Commercial records",
+            "op3": "Capital amount",
+            "op4": "Asset-based valuation"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "The Zakat payer's fiscal year duration impacts:",
+        "options": {
+            "op1": "Income estimation",
+            "op2": "Capital projection",
+            "op3": "Zakat liability",
+            "op4": "Dividend calculations"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Zakat returns and declarations must be filed by:",
+        "options": {
+            "op1": "End of the fiscal year",
+            "op2": "Within 3 months",
+            "op3": "Before 120 days",
+            "op4": "Only on approval"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Investments exempt from Zakat are based on:",
+        "options": {
+            "op1": "Government grants",
+            "op2": "Short-term income",
+            "op3": "Foreign expenses",
+            "op4": "Deductible assets"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "For Zakat, only sales and imports are:",
+        "options": {
+            "op1": "Taxed fully",
+            "op2": "Adjusted at 120%",
+            "op3": "Considered if recorded",
+            "op4": "Added to base directly"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "A Zakat year may be adjusted if:",
+        "options": {
+            "op1": "Fiscal period is short",
+            "op2": "Income is less than expenses",
+            "op3": "Annual expenses increase",
+            "op4": "Exceeds 354 days"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "If no activity is recorded, minimum Zakat is:",
+        "options": {
+            "op1": "Adjusted",
+            "op2": "Deferred",
+            "op3": "SAR 500",
+            "op4": "Waived"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Adjustments to Zakat base are mandatory for:",
+        "options": {
+            "op1": "Historical losses",
+            "op2": "Investment income",
+            "op3": "Capital depreciation",
+            "op4": "Commercial asset valuations"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "General Authority manages Zakat through:",
+        "options": {
+            "op1": "Only online returns",
+            "op2": "Custom tax offices",
+            "op3": "Commercial transactions",
+            "op4": "Specialized assessment"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "Investments recorded for Zakat must include:",
+        "options": {
+            "op1": "Only profits",
+            "op2": "Only liabilities",
+            "op3": "Full asset value",
+            "op4": "Year-end valuations"
+        },
+        "answer": "op3"
+    }
+]

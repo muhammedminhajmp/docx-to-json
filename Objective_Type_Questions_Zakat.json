@@ -1,0 +1,402 @@
+[
+    {
+        "question": "What is the standard Zakat rate for most assets?",
+        "options": {
+            "op1": "A) 1%",
+            "op2": "B) 2%",
+            "op3": "C) 2.5%",
+            "op4": "D) 5%"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Which of the following is considered a Zakatable asset?",
+        "options": {
+            "op1": "A) Fixed assets",
+            "op2": "B) Cash",
+            "op3": "C) Non-Zakatable investments",
+            "op4": "D) Goodwill"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "In Zakat calculation, what are 'additions'?",
+        "options": {
+            "op1": "A) Deductible assets",
+            "op2": "B) Zakatable liabilities",
+            "op3": "C) Sources of funds",
+            "op4": "D) All liabilities"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "What type of expenses are usually not deductible from the Zakat base?",
+        "options": {
+            "op1": "A) Capital expenses",
+            "op2": "B) Operational expenses",
+            "op3": "C) Marketing expenses",
+            "op4": "D) Salary expenses"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "How are donations treated in the Zakat base calculation?",
+        "options": {
+            "op1": "A) Always deductible",
+            "op2": "B) Never deductible",
+            "op3": "C) Deductible if authorized",
+            "op4": "D) Always added to the base"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Which asset class is typically deductible from the Zakat base?",
+        "options": {
+            "op1": "A) Cash",
+            "op2": "B) Investments in Zakatable companies",
+            "op3": "C) Retained earnings",
+            "op4": "D) Short-term loans"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Who is responsible for verifying Zakat compliance?",
+        "options": {
+            "op1": "A) The company",
+            "op2": "B) The government",
+            "op3": "C) GAZT",
+            "op4": "D) Ministry of Finance"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "How often is Zakat due for eligible entities?",
+        "options": {
+            "op1": "A) Monthly",
+            "op2": "B) Quarterly",
+            "op3": "C) Annually",
+            "op4": "D) Bi-annually"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "What must be done if a Zakat payer does not maintain commercial books?",
+        "options": {
+            "op1": "A) Submit Zakat based on estimated calculations",
+            "op2": "B) No Zakat required",
+            "op3": "C) Deduct all assets",
+            "op4": "D) Add all liabilities"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Which of these is a deductible item from the Zakat base?",
+        "options": {
+            "op1": "A) Property",
+            "op2": "B) Goodwill",
+            "op3": "C) Long-term loans",
+            "op4": "D) Employee benefits"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Zakat on commercial goods is calculated based on:",
+        "options": {
+            "op1": "A) Market value",
+            "op2": "B) Purchase cost",
+            "op3": "C) Selling price",
+            "op4": "D) Replacement cost"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "In Zakat base calculation, short-term obligations are added if they:",
+        "options": {
+            "op1": "A) Are secured",
+            "op2": "B) Finance deductible assets",
+            "op3": "C) Are long-term liabilities",
+            "op4": "D) Are cash-based"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Which of the following are always non-deductible in Zakat calculations?",
+        "options": {
+            "op1": "A) Employee benefits",
+            "op2": "B) Investments in Zakatable entities",
+            "op3": "C) Fixed assets",
+            "op4": "D) Zakat paid independently"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Bad debts can be deducted if they meet which condition?",
+        "options": {
+            "op1": "A) Reported as revenue earlier",
+            "op2": "B) Related to unrelated parties",
+            "op3": "C) Never reported",
+            "op4": "D) Only reported losses"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "What is the base rate of Zakat on adjusted profit?",
+        "options": {
+            "op1": "A) 1.5%",
+            "op2": "B) 2%",
+            "op3": "C) 2.5%",
+            "op4": "D) 5%"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Which items are not included as 'additions' to the Zakat base?",
+        "options": {
+            "op1": "A) Retained earnings",
+            "op2": "B) Fixed assets",
+            "op3": "C) Equity",
+            "op4": "D) Deferred tax liabilities"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "How is the capital increase treated if unknown in financing deductions?",
+        "options": {
+            "op1": "A) Fully added to the base",
+            "op2": "B) Deducted from Zakat base",
+            "op3": "C) Not considered",
+            "op4": "D) Added proportionally"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "What is the Hijri year length considered in Zakat calculation?",
+        "options": {
+            "op1": "A) 365 days",
+            "op2": "B) 354 days",
+            "op3": "C) 360 days",
+            "op4": "D) 366 days"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Provision for end-of-service benefits is added when:",
+        "options": {
+            "op1": "A) It is utilized",
+            "op2": "B) It is partially used",
+            "op3": "C) It is a liability",
+            "op4": "D) It remains at year-end"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "Is the Zakat rate adjusted based on business activity?",
+        "options": {
+            "op1": "A) Yes",
+            "op2": "B) No",
+            "op3": "C) Sometimes",
+            "op4": "D) Only for profits"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Which of these items would increase the Zakat base?",
+        "options": {
+            "op1": "A) Long-term liabilities",
+            "op2": "B) Current liabilities",
+            "op3": "C) Retained earnings",
+            "op4": "D) Intangible assets"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "How are foreign investments in shares treated?",
+        "options": {
+            "op1": "A) Fully deductible",
+            "op2": "B) Added to Zakat base",
+            "op3": "C) Deducted only if paid independently",
+            "op4": "D) Not considered"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "What percentage is applied on net profit before Zakat adjustments?",
+        "options": {
+            "op1": "A) 2.5%",
+            "op2": "B) 2%",
+            "op3": "C) 5%",
+            "op4": "D) 3%"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Retained earnings carried from previous years should be:",
+        "options": {
+            "op1": "A) Added",
+            "op2": "B) Deducted",
+            "op3": "C) Ignored",
+            "op4": "D) Averaged"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Obligations over 354 days are considered if:",
+        "options": {
+            "op1": "A) They finance deductible items",
+            "op2": "B) They are short-term",
+            "op3": "C) They relate to employees",
+            "op4": "D) They are overdue"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "How are property investments deducted?",
+        "options": {
+            "op1": "A) Always deducted",
+            "op2": "B) Only if in Saudi Arabia",
+            "op3": "C) Based on income",
+            "op4": "D) Not deductible"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "What is added to the Zakat base if deducted from obligations?",
+        "options": {
+            "op1": "A) Long-term debt",
+            "op2": "B) Employee salaries",
+            "op3": "C) Fixed assets",
+            "op4": "D) Operating expenses"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "In calculating Zakat, accrued expenses are treated as:",
+        "options": {
+            "op1": "A) Always deductible",
+            "op2": "B) Zakatable items",
+            "op3": "C) Non-Zakatable",
+            "op4": "D) Additions"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "If a company has no deductible items, the Zakat base includes:",
+        "options": {
+            "op1": "A) Current assets",
+            "op2": "B) All assets",
+            "op3": "C) Adjusted profit",
+            "op4": "D) Investments"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Does Zakat apply to short-term obligations?",
+        "options": {
+            "op1": "A) Yes, fully",
+            "op2": "B) No, unless financing deductible items",
+            "op3": "C) Only if related to equity",
+            "op4": "D) Always ignored"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Obligations financing deductible items are added to:",
+        "options": {
+            "op1": "A) Retained earnings",
+            "op2": "B) Zakatable assets",
+            "op3": "C) Zakat base",
+            "op4": "D) External funding"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Provisions added for doubtful obligations require:",
+        "options": {
+            "op1": "A) Verification",
+            "op2": "B) Zakat payment",
+            "op3": "C) Deduction",
+            "op4": "D) Addition"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "What type of investment is deductible in foreign companies?",
+        "options": {
+            "op1": "A) Stock",
+            "op2": "B) Bonds",
+            "op3": "C) Non-trading shares",
+            "op4": "D) Equity shares"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Capital work in progress is treated as:",
+        "options": {
+            "op1": "A) Addition",
+            "op2": "B) Deduction",
+            "op3": "C) Ignored",
+            "op4": "D) Asset"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "The adjusted net profit calculation excludes:",
+        "options": {
+            "op1": "A) Non-deductible expenses",
+            "op2": "B) Revenue adjustments",
+            "op3": "C) Fixed assets",
+            "op4": "D) Operational profits"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "A six-month loan rescheduled is treated as:",
+        "options": {
+            "op1": "A) Long-term debt",
+            "op2": "B) Short-term liability",
+            "op3": "C) Deductible",
+            "op4": "D) Ignored"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Investment in Saudi entities subject to Zakat is:",
+        "options": {
+            "op1": "A) Deductible",
+            "op2": "B) Added to base",
+            "op3": "C) Non-Zakatable",
+            "op4": "D) Added in full"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Real estate rented for income is:",
+        "options": {
+            "op1": "A) Zakatable",
+            "op2": "B) Non-Zakatable",
+            "op3": "C) Deductible",
+            "op4": "D) Added"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "The balance of unused provisions is added when:",
+        "options": {
+            "op1": "A) At year-end",
+            "op2": "B) During deductions",
+            "op3": "C) Always",
+            "op4": "D) Never"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "When are dividends treated as additions?",
+        "options": {
+            "op1": "A) Always",
+            "op2": "B) Over retained earnings",
+            "op3": "C) Never",
+            "op4": "D) Only as assets"
+        },
+        "answer": "op2"
+    }
+]

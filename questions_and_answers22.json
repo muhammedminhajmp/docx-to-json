@@ -1,0 +1,402 @@
+[
+    {
+        "question": "1. What is the primary purpose of Zakat in the context of Islamic finance?",
+        "options": [
+            "A. Revenue generation",
+            "B. Social welfare and poverty alleviation",
+            "C. Promoting investment",
+            "D. Regulating industries"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "2. Which entity is responsible for the collection of Zakat in Saudi Arabia?",
+        "options": [
+            "A. Ministry of Commerce",
+            "B. General Authority of Zakat & Tax",
+            "C. Supreme Economic Council",
+            "D. Central Bank"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "3. What is the Zakat rate typically applied to Zakatable assets?",
+        "options": [
+            "A. 2.0%",
+            "B. 2.5%",
+            "C. 3.0%",
+            "D. 1.5%"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "4. The term 'Al-Hawl' in Zakat refers to:",
+        "options": [
+            "A. Fiscal Quarter",
+            "B. A full Hijri year",
+            "C. Gregorian Year",
+            "D. Financial half-year"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "5. For companies maintaining commercial books, Zakat is calculated using:",
+        "options": [
+            "A. Direct and Indirect methods",
+            "B. Profit-based methods",
+            "C. Asset depreciation",
+            "D. Inventory valuation"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "6. Items deducted from the Zakat base in the Manufacturing sector include:",
+        "options": [
+            "A. Cash on hand",
+            "B. Fixed assets",
+            "C. Inventory",
+            "D. Receivables"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "7. What does 'Zakatable year' (Al Hawl) mean?",
+        "options": [
+            "A. Any fiscal year",
+            "B. One lunar year",
+            "C. Gregorian calendar year",
+            "D. 18 months"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "8. Who oversees the implementation and compliance of Zakat laws in Saudi Arabia?",
+        "options": [
+            "A. Regional courts",
+            "B. General Authority of Zakat & Tax",
+            "C. Ministry of Finance",
+            "D. Local municipalities"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "9. The main method for calculating Zakat base in Saudi manufacturing companies is:",
+        "options": [
+            "A. Adding assets only",
+            "B. Deducting liabilities only",
+            "C. Adding sources of funds and deducting non-Zakatable assets",
+            "D. Estimation"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "10. Zakat must be paid within what time frame after the completion of a financial year?",
+        "options": [
+            "A. 1 month",
+            "B. 3 months",
+            "C. 6 months",
+            "D. 12 months"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "11. The Zakat rate of 2.5% applies primarily to:",
+        "options": [
+            "A. Fixed assets",
+            "B. Liquid assets and income-generating assets",
+            "C. Machinery",
+            "D. Investments in land"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "12. Zakat payers who do not maintain commercial books use which method of calculation?",
+        "options": [
+            "A. Deemed calculation",
+            "B. Inventory method",
+            "C. Direct assessment",
+            "D. Yearly assessment"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "13. What does 'deemed calculation' mean in Zakat practices?",
+        "options": [
+            "A. Using estimated figures",
+            "B. Calculating based on market rates",
+            "C. Calculating without commercial records",
+            "D. Adjusting for inflation"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "14. Investments in local companies are treated how in Zakat calculation?",
+        "options": [
+            "A. Always added to Zakat base",
+            "B. Deducted if Zakat is paid independently",
+            "C. Ignored",
+            "D. Doubled"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "15. The primary document for Zakat declaration is called:",
+        "options": [
+            "A. Zakat Report",
+            "B. Declaration Form",
+            "C. Profit Statement",
+            "D. Annual Return"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "16. If Zakat base is less than adjusted profit, Zakat is calculated on:",
+        "options": [
+            "A. Zakat base",
+            "B. Adjusted profit",
+            "C. The difference",
+            "D. None"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "17. The Zakat rate of 2.5% applies primarily to:",
+        "options": [
+            "A. Fixed assets",
+            "B. Liquid assets and income-generating assets",
+            "C. Machinery",
+            "D. Investments in land"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "18. Zakat payers who do not maintain commercial books use which method of calculation?",
+        "options": [
+            "A. Deemed calculation",
+            "B. Inventory method",
+            "C. Direct assessment",
+            "D. Yearly assessment"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "19. What does 'deemed calculation' mean in Zakat practices?",
+        "options": [
+            "A. Using estimated figures",
+            "B. Calculating based on market rates",
+            "C. Calculating without commercial records",
+            "D. Adjusting for inflation"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "20. Investments in local companies are treated how in Zakat calculation?",
+        "options": [
+            "A. Always added to Zakat base",
+            "B. Deducted if Zakat is paid independently",
+            "C. Ignored",
+            "D. Doubled"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "21. The primary document for Zakat declaration is called:",
+        "options": [
+            "A. Zakat Report",
+            "B. Declaration Form",
+            "C. Profit Statement",
+            "D. Annual Return"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "22. If Zakat base is less than adjusted profit, Zakat is calculated on:",
+        "options": [
+            "A. Zakat base",
+            "B. Adjusted profit",
+            "C. The difference",
+            "D. None"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "23. The Zakat rate of 2.5% applies primarily to:",
+        "options": [
+            "A. Fixed assets",
+            "B. Liquid assets and income-generating assets",
+            "C. Machinery",
+            "D. Investments in land"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "24. Zakat payers who do not maintain commercial books use which method of calculation?",
+        "options": [
+            "A. Deemed calculation",
+            "B. Inventory method",
+            "C. Direct assessment",
+            "D. Yearly assessment"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "25. What does 'deemed calculation' mean in Zakat practices?",
+        "options": [
+            "A. Using estimated figures",
+            "B. Calculating based on market rates",
+            "C. Calculating without commercial records",
+            "D. Adjusting for inflation"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "26. Investments in local companies are treated how in Zakat calculation?",
+        "options": [
+            "A. Always added to Zakat base",
+            "B. Deducted if Zakat is paid independently",
+            "C. Ignored",
+            "D. Doubled"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "27. The primary document for Zakat declaration is called:",
+        "options": [
+            "A. Zakat Report",
+            "B. Declaration Form",
+            "C. Profit Statement",
+            "D. Annual Return"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "28. If Zakat base is less than adjusted profit, Zakat is calculated on:",
+        "options": [
+            "A. Zakat base",
+            "B. Adjusted profit",
+            "C. The difference",
+            "D. None"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "29. The Zakat rate of 2.5% applies primarily to:",
+        "options": [
+            "A. Fixed assets",
+            "B. Liquid assets and income-generating assets",
+            "C. Machinery",
+            "D. Investments in land"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "30. Zakat payers who do not maintain commercial books use which method of calculation?",
+        "options": [
+            "A. Deemed calculation",
+            "B. Inventory method",
+            "C. Direct assessment",
+            "D. Yearly assessment"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "31. What does 'deemed calculation' mean in Zakat practices?",
+        "options": [
+            "A. Using estimated figures",
+            "B. Calculating based on market rates",
+            "C. Calculating without commercial records",
+            "D. Adjusting for inflation"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "32. Investments in local companies are treated how in Zakat calculation?",
+        "options": [
+            "A. Always added to Zakat base",
+            "B. Deducted if Zakat is paid independently",
+            "C. Ignored",
+            "D. Doubled"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "33. The primary document for Zakat declaration is called:",
+        "options": [
+            "A. Zakat Report",
+            "B. Declaration Form",
+            "C. Profit Statement",
+            "D. Annual Return"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "34. If Zakat base is less than adjusted profit, Zakat is calculated on:",
+        "options": [
+            "A. Zakat base",
+            "B. Adjusted profit",
+            "C. The difference",
+            "D. None"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "35. What is the minimum percentage of inventory sales required before deducting properties under development for Zakat?",
+        "options": [
+            "A. 10%",
+            "B. 25%",
+            "C. 50%",
+            "D. 75%"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "36. For a Zakat payer in the manufacturing sector, which of these expenses is NOT deductible?",
+        "options": [
+            "A. Personal expenses",
+            "B. Business-related expenses",
+            "C. Depreciation",
+            "D. Wages"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "37. In the context of Zakat, 'Al-Hawl' is best described as:",
+        "options": [
+            "A. A lunar year",
+            "B. A calendar year",
+            "C. An adjustment period",
+            "D. A fiscal term"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "38. The General Authority of Zakat & Tax applies which of the following to ensure compliance?",
+        "options": [
+            "A. Audits",
+            "B. Notifications only",
+            "C. Warning letters",
+            "D. Tax reduction"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "39. Which of the following assets is generally exempt from Zakat in the manufacturing sector?",
+        "options": [
+            "A. Cash reserves",
+            "B. Fixed assets used for operations",
+            "C. Trade receivables",
+            "D. Inventory"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "40. The Zakat declaration must be submitted by the Zakat payer in:",
+        "options": [
+            "A. Monthly installments",
+            "B. Annually",
+            "C. Bi-annually",
+            "D. Every five years"
+        ],
+        "answer": "B"
+    }
+]

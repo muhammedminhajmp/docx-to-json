@@ -1,0 +1,402 @@
+[
+    {
+        "question": "What is Zakat in Islam?",
+        "options": {
+            "op1": "The first pillar",
+            "op2": "The third pillar",
+            "op3": "The fifth pillar",
+            "op4": "Not a pillar"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Who is responsible for the collection of Zakat in Saudi Arabia?",
+        "options": {
+            "op1": "Ministry of Finance",
+            "op2": "Zakat, Tax and Customs Authority (ZATCA)",
+            "op3": "Central Bank",
+            "op4": "None of the above"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What is the minimum amount of Zakat required in case of no activity?",
+        "options": {
+            "op1": "SAR 100",
+            "op2": "SAR 250",
+            "op3": "SAR 500",
+            "op4": "SAR 1,000"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "The Zakat is calculated at a rate of:",
+        "options": {
+            "op1": "2%",
+            "op2": "2.5%",
+            "op3": "3%",
+            "op4": "3.5%"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "According to Islamic principles, Zakat helps in:",
+        "options": {
+            "op1": "Generating revenue",
+            "op2": "Fighting poverty",
+            "op3": "Collecting tax",
+            "op4": "None of the above"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What does ZATCA stand for?",
+        "options": {
+            "op1": "Zakat and Tax Collection Authority",
+            "op2": "Zakat, Tax and Customs Authority",
+            "op3": "Zakat and Treasury Collection Authority",
+            "op4": "None of the above"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What is the purpose of Zakat?",
+        "options": {
+            "op1": "Personal wealth accumulation",
+            "op2": "To support government expenses",
+            "op3": "To aid the needy",
+            "op4": "For business expansion"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Who supervises Zakat collection in Saudi Arabia?",
+        "options": {
+            "op1": "The King",
+            "op2": "The Ministry of Finance",
+            "op3": "ZATCA",
+            "op4": "None of the above"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "The collection of Zakat is a responsibility of:",
+        "options": {
+            "op1": "The individual",
+            "op2": "The community",
+            "op3": "The state",
+            "op4": "Private firms"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "The minimum zakat for Estimated Zakat Taxpayers is:",
+        "options": {
+            "op1": "SAR 100",
+            "op2": "SAR 250",
+            "op3": "SAR 500",
+            "op4": "SAR 750"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "What document should taxpayers in Saudi Arabia refer to for Zakat calculations?",
+        "options": {
+            "op1": "Zakat Declaration",
+            "op2": "VAT Declaration",
+            "op3": "Executive Regulations for Levying Zakat",
+            "op4": "None of the above"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Who is responsible for disbursing the collected Zakat?",
+        "options": {
+            "op1": "The taxpayer",
+            "op2": "Social Security Administration",
+            "op3": "Saudi Central Bank",
+            "op4": "Ministry of Finance"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Which method is used for calculating Zakat based on company finances?",
+        "options": {
+            "op1": "Direct method",
+            "op2": "Indirect method",
+            "op3": "Estimated calculation method",
+            "op4": "All of the above"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "What is the primary source for determining Zakat on assets?",
+        "options": {
+            "op1": "Revenue",
+            "op2": "Total sales",
+            "op3": "Commercial books",
+            "op4": "VAT Declaration"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Which year marked the establishment of ZATCA?",
+        "options": {
+            "op1": "2020",
+            "op2": "2019",
+            "op3": "2021",
+            "op4": "2018"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Who can submit an objection to ZATCA\u2019s assessment?",
+        "options": {
+            "op1": "The taxpayer",
+            "op2": "ZATCA only",
+            "op3": "Third-party organizations",
+            "op4": "None of the above"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "What is the first step in calculating Zakat?",
+        "options": {
+            "op1": "Registration of taxpayer",
+            "op2": "Collection of payment",
+            "op3": "Issuance of certificate",
+            "op4": "None of the above"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Which of the following reflects a Zakat Base?",
+        "options": {
+            "op1": "Assets",
+            "op2": "Liabilities",
+            "op3": "Income",
+            "op4": "Revenue"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "What is the maximum objection period for ZATCA\u2019s decisions?",
+        "options": {
+            "op1": "30 days",
+            "op2": "60 days",
+            "op3": "90 days",
+            "op4": "120 days"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What happens if a taxpayer does not submit the Zakat Declaration?",
+        "options": {
+            "op1": "They are exempted",
+            "op2": "An estimated assessment is made",
+            "op3": "No assessment",
+            "op4": "They are fined"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What is the required percentage for Zakat on Zakat Base (ZB)?",
+        "options": {
+            "op1": "1%",
+            "op2": "2%",
+            "op3": "2.5%",
+            "op4": "3%"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Which platform is used for government financial services in Saudi Arabia?",
+        "options": {
+            "op1": "Etimad",
+            "op2": "VAT Portal",
+            "op3": "Zakat Collection Portal",
+            "op4": "None of the above"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "If ZATCA finds discrepancies in Zakat calculation, it can:",
+        "options": {
+            "op1": "Recalculate Zakat",
+            "op2": "Ignore discrepancies",
+            "op3": "Exempt the taxpayer",
+            "op4": "None of the above"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "What does ZATCA use to determine ZB if financial records are unavailable?",
+        "options": {
+            "op1": "Company's capital only",
+            "op2": "Estimated sales data",
+            "op3": "Direct taxation",
+            "op4": "Random selection"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What authority resolves tax disputes in Saudi Arabia?",
+        "options": {
+            "op1": "Committee for Tax Disputes",
+            "op2": "Supreme Court",
+            "op3": "Social Security Committee",
+            "op4": "ZATCA"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "For companies, Zakat is primarily calculated on:",
+        "options": {
+            "op1": "Profits only",
+            "op2": "Sales and assets",
+            "op3": "Liabilities",
+            "op4": "External funds"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Who can appeal against ZATCA\u2019s final decision?",
+        "options": {
+            "op1": "ZATCA only",
+            "op2": "The taxpayer",
+            "op3": "Any citizen",
+            "op4": "None of the above"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What financial year is considered for Zakat calculation?",
+        "options": {
+            "op1": "Gregorian year",
+            "op2": "Lunar year",
+            "op3": "Solar year",
+            "op4": "None of the above"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "If a taxpayer has no recorded sales, Zakat is calculated based on:",
+        "options": {
+            "op1": "Employee data",
+            "op2": "Import data",
+            "op3": "Export data",
+            "op4": "Any of the above"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "Zakat due must be paid within how many days from assessment?",
+        "options": {
+            "op1": "30",
+            "op2": "45",
+            "op3": "60",
+            "op4": "90"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Which document consolidates FAQs on Zakat?",
+        "options": {
+            "op1": "Executive Regulations",
+            "op2": "Zakat Manual",
+            "op3": "VAT Declaration",
+            "op4": "Financial Reports"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What is the consequence for not submitting Zakat declarations over multiple years?",
+        "options": {
+            "op1": "Exemption from Zakat",
+            "op2": "Minimal penalty",
+            "op3": "Follow Estimated Zakat Taxpayers Rules",
+            "op4": "None"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "What is the Zakat rate for commercial records?",
+        "options": {
+            "op1": "1%",
+            "op2": "1.5%",
+            "op3": "2%",
+            "op4": "2.5%"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "The estimated Zakat Base formula includes:",
+        "options": {
+            "op1": "Employee number",
+            "op2": "Sales revenue",
+            "op3": "Imports",
+            "op4": "All of the above"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "Who sets the rules for calculating estimated Zakat?",
+        "options": {
+            "op1": "Ministry of Finance",
+            "op2": "Saudi Central Bank",
+            "op3": "ZATCA",
+            "op4": "None"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "The Lunar year used for Zakat calculation has how many days?",
+        "options": {
+            "op1": "354",
+            "op2": "365",
+            "op3": "366",
+            "op4": "355"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "In what case can the Zakat be set at the minimum SAR 500?",
+        "options": {
+            "op1": "No sales",
+            "op2": "High imports",
+            "op3": "Zero profit",
+            "op4": "Low capital"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "What is one of ZATCA\u2019s roles?",
+        "options": {
+            "op1": "Collect VAT only",
+            "op2": "Manage customs only",
+            "op3": "Collect Zakat and customs",
+            "op4": "None"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "What is the minimum required Zakat if the taxpayer has no activity?",
+        "options": {
+            "op1": "SAR 100",
+            "op2": "SAR 250",
+            "op3": "SAR 500",
+            "op4": "SAR 750"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Who has the right to reject the Settlement Committee\u2019s decision?",
+        "options": {
+            "op1": "The taxpayer only",
+            "op2": "ZATCA only",
+            "op3": "Both taxpayer and ZATCA",
+            "op4": "None"
+        },
+        "answer": "op3"
+    }
+]

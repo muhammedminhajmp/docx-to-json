@@ -1,0 +1,402 @@
+[
+    {
+        "question": "What is included in the construction sector for Zakat purposes?",
+        "options": {
+            "op1": "Residential buildings only",
+            "op2": "Complete constructions and civil engineering work",
+            "op3": "Only infrastructure projects",
+            "op4": "Industrial buildings only"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What is the Zakat base formula for construction companies?",
+        "options": {
+            "op1": "Revenues - Expenses",
+            "op2": "Additions - Deductibles",
+            "op3": "Assets - Liabilities",
+            "op4": "Income + Expenses"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "The percentage used to calculate Zakat on the Zakat base is:",
+        "options": {
+            "op1": "1%",
+            "op2": "2%",
+            "op3": "2.5%",
+            "op4": "3%"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "In construction Zakat, the indirect method is also known as:",
+        "options": {
+            "op1": "Sources of funds method",
+            "op2": "Direct calculation method",
+            "op3": "Asset-based method",
+            "op4": "Capital method"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Which of the following is added to the Zakat base?",
+        "options": {
+            "op1": "Net fixed assets",
+            "op2": "Capital construction underway",
+            "op3": "Long-term liabilities",
+            "op4": "Intangible assets"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Zakat calculation for a fiscal period shorter than 354 days is:",
+        "options": {
+            "op1": "Required at 2%",
+            "op2": "Adjusted for actual days",
+            "op3": "Exempt",
+            "op4": "Deferred"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Advance payments in construction contracts are considered:",
+        "options": {
+            "op1": "Revenue",
+            "op2": "Liability",
+            "op3": "Asset",
+            "op4": "Equity"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Which of these is NOT included as an addition in the Zakat base?",
+        "options": {
+            "op1": "Capital",
+            "op2": "Retained earnings",
+            "op3": "Provisions at year-end",
+            "op4": "Net fixed assets"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "Zakat is levied at 2.5% of the:",
+        "options": {
+            "op1": "Total liabilities",
+            "op2": "Net profit",
+            "op3": "Zakat base",
+            "op4": "Sales"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Construction contracts under BOT agreements are treated as:",
+        "options": {
+            "op1": "Current assets",
+            "op2": "Fixed assets",
+            "op3": "Zakatable investments",
+            "op4": "Non-zakatable assets"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What does BOT stand for in construction contracts?",
+        "options": {
+            "op1": "Build, Operate, Transfer",
+            "op2": "Borrow, Own, Terminate",
+            "op3": "Buy, Operate, Transfer",
+            "op4": "Build, Own, Terminate"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "When does a Zakat payer\u2019s fiscal year start?",
+        "options": {
+            "op1": "Date of commercial registration",
+            "op2": "First day of the year",
+            "op3": "When capital is received",
+            "op4": "Any preferred date"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "The minimum Zakat base cannot be less than:",
+        "options": {
+            "op1": "Capital",
+            "op2": "Net profit",
+            "op3": "Gross revenue",
+            "op4": "Adjusted net profit"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "Investment classified as unquoted in construction contracts is:",
+        "options": {
+            "op1": "Deducted from Zakat base",
+            "op2": "Included in Zakat base",
+            "op3": "Ignored",
+            "op4": "Considered non-zakatable"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "How is the Zakat rate adjusted for a fiscal period shorter than a Hijri year?",
+        "options": {
+            "op1": "Proportional to days",
+            "op2": "Reduced to 1%",
+            "op3": "Fixed at 2.5%",
+            "op4": "Deferred"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Advance payments received in construction are treated as:",
+        "options": {
+            "op1": "Revenue",
+            "op2": "Liabilities",
+            "op3": "Current assets",
+            "op4": "Reserves"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "The term 'build and operate' contracts in construction refers to:",
+        "options": {
+            "op1": "Short-term contracts",
+            "op2": "Revenue-focused contracts",
+            "op3": "Income-producing contracts",
+            "op4": "Non-profit contracts"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Which of the following assets is deducted from the Zakat base?",
+        "options": {
+            "op1": "Provisions",
+            "op2": "Capital",
+            "op3": "Construction underway",
+            "op4": "Adjusted net profit"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Specialized construction work is included in the Zakat base if:",
+        "options": {
+            "op1": "It\u2019s a separate entity",
+            "op2": "Part of a project",
+            "op3": "Involves private funding",
+            "op4": "For personal use"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "In Zakat, the adjusted net profit for the year is subject to:",
+        "options": {
+            "op1": "2%",
+            "op2": "3%",
+            "op3": "2.5%",
+            "op4": "1.5%"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Construction contracts with a financial lease are considered:",
+        "options": {
+            "op1": "Zakatable assets",
+            "op2": "Non-zakatable assets",
+            "op3": "Liabilities",
+            "op4": "Fixed assets"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "The short financial period is exempt from Zakat if:",
+        "options": {
+            "op1": "Above 200 days",
+            "op2": "Under 354 days",
+            "op3": "Exactly 354 days",
+            "op4": "Exceeds a Hijri year"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "The construction sector includes all except:",
+        "options": {
+            "op1": "New buildings",
+            "op2": "Repairs",
+            "op3": "Civil engineering work",
+            "op4": "Manufacturing"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "Contracts for construction of civil engineering work fall under:",
+        "options": {
+            "op1": "Agriculture",
+            "op2": "Real estate",
+            "op3": "Construction sector",
+            "op4": "Banking"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Assets in construction Zakat include:",
+        "options": {
+            "op1": "Net fixed assets",
+            "op2": "Long-term liabilities",
+            "op3": "Revenue only",
+            "op4": "Capital only"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Specialized construction is part of Zakat if:",
+        "options": {
+            "op1": "It is commercial",
+            "op2": "It is leased",
+            "op3": "Part of project",
+            "op4": "Classified as current asset"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "In Zakat, equity is treated as:",
+        "options": {
+            "op1": "Asset",
+            "op2": "Deductible",
+            "op3": "Liability",
+            "op4": "Addition to base"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "The Zakat base calculation in construction follows which method?",
+        "options": {
+            "op1": "Revenue method",
+            "op2": "Direct method",
+            "op3": "Sources of funds method",
+            "op4": "Expenditure method"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "What is the minimum Zakat payment percentage for construction companies?",
+        "options": {
+            "op1": "1%",
+            "op2": "2%",
+            "op3": "2.5%",
+            "op4": "3%"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "The Zakat treatment for construction equipment in operation is:",
+        "options": {
+            "op1": "Non-zakatable",
+            "op2": "Zakatable",
+            "op3": "Exempt",
+            "op4": "Fixed asset only"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "When a BOT contract concludes, the property:",
+        "options": {
+            "op1": "Transfers to lessor",
+            "op2": "Transfers to lessee",
+            "op3": "Is leased out",
+            "op4": "Is sold"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Which of the following contracts is NOT used in construction?",
+        "options": {
+            "op1": "BOOT",
+            "op2": "BOT",
+            "op3": "AOT",
+            "op4": "ROT"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "What does BOO stand for in construction?",
+        "options": {
+            "op1": "Build, Own, Operate",
+            "op2": "Buy, Operate, Own",
+            "op3": "Borrow, Own, Operate",
+            "op4": "Build, Offer, Operate"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Advance payments in a construction project are classified as:",
+        "options": {
+            "op1": "Equity",
+            "op2": "Current assets",
+            "op3": "Liabilities",
+            "op4": "Non-current assets"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "In Zakat for construction, capital contributions are:",
+        "options": {
+            "op1": "Excluded",
+            "op2": "Included",
+            "op3": "Deducted",
+            "op4": "Taxable"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Long-term liabilities in construction Zakat calculation are:",
+        "options": {
+            "op1": "Deducted",
+            "op2": "Excluded",
+            "op3": "Added",
+            "op4": "Non-zakatable"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Construction contracts involving public buildings are:",
+        "options": {
+            "op1": "Non-taxable",
+            "op2": "Part of Zakat base",
+            "op3": "Excluded from base",
+            "op4": "Intangible assets"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "The adjusted net profit for Zakat is calculated based on:",
+        "options": {
+            "op1": "Liabilities",
+            "op2": "Sales",
+            "op3": "Total profit",
+            "op4": "2.5% of Zakat base"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "Zakat for construction on a fiscal year longer than a Hijri year is:",
+        "options": {
+            "op1": "Exempted",
+            "op2": "Adjusted for actual days",
+            "op3": "Standard rate",
+            "op4": "Deferred"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "The Zakat for assets in specialized construction projects is calculated if:",
+        "options": {
+            "op1": "They are for personal use",
+            "op2": "They are non-current",
+            "op3": "They are for sale",
+            "op4": "They are leased"
+        },
+        "answer": "op3"
+    }
+]

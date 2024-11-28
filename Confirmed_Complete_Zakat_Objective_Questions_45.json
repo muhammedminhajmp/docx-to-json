@@ -1,0 +1,402 @@
+[
+    {
+        "question": "What is Zakat?",
+        "options": {
+            "op1": "A form of prayer",
+            "op2": "A tax on income",
+            "op3": "An essential financial obligation for Muslims",
+            "op4": "A type of savings"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Who is responsible for collecting and managing Zakat in Saudi Arabia?",
+        "options": {
+            "op1": "Ministry of Finance",
+            "op2": "General Authority of Zakat & Tax (GAZT)",
+            "op3": "Local Mosque Committees",
+            "op4": "Islamic Development Bank"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What percentage of a Zakat payer's wealth is generally subject to Zakat?",
+        "options": {
+            "op1": "2.5%",
+            "op2": "5%",
+            "op3": "10%",
+            "op4": "1%"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "What is the purpose of Zakat?",
+        "options": {
+            "op1": "Wealth accumulation",
+            "op2": "Poverty alleviation and social solidarity",
+            "op3": "Increasing government revenue",
+            "op4": "None of the above"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "How often must Zakat be paid on eligible wealth?",
+        "options": {
+            "op1": "Monthly",
+            "op2": "Annually",
+            "op3": "Biannually",
+            "op4": "Only once in a lifetime"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What type of assets are not deductible from the Zakat base?",
+        "options": {
+            "op1": "Buildings",
+            "op2": "Fixed assets used for business",
+            "op3": "Personal assets",
+            "op4": "Inventory intended for sale"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Which of the following is considered a deductible item in Zakat calculation?",
+        "options": {
+            "op1": "Cash on hand",
+            "op2": "Personal loans owed",
+            "op3": "Employee pensions",
+            "op4": "Machinery for production"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "What is the formula for calculating Zakat if the fiscal year does not match the Hijri year?",
+        "options": {
+            "op1": "2.5% * number of Hijri days",
+            "op2": "(2.5% / 354) * number of actual fiscal days",
+            "op3": "Total assets * 2.5%",
+            "op4": "None of the above"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Zakat is obligatory on which of the following sectors?",
+        "options": {
+            "op1": "Educational institutions",
+            "op2": "Commercial activities",
+            "op3": "Charitable organizations",
+            "op4": "Government employees"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Which of the following expenses may be deducted from the Zakat base?",
+        "options": {
+            "op1": "Non-business-related expenses",
+            "op2": "Capital expenses",
+            "op3": "Bad debts",
+            "op4": "Personal loan payments"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Which authority issues the Zakat declaration form?",
+        "options": {
+            "op1": "Ministry of Commerce",
+            "op2": "Saudi Central Bank",
+            "op3": "General Authority of Zakat & Tax (GAZT)",
+            "op4": "Ministry of Finance"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "What is the purpose of a Zakat declaration?",
+        "options": {
+            "op1": "To collect tax revenue",
+            "op2": "To identify the Zakat base of an entity",
+            "op3": "To apply for tax exemptions",
+            "op4": "To register business assets"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "When is the Zakat year considered complete for a Zakatable fund?",
+        "options": {
+            "op1": "After one Gregorian year",
+            "op2": "After 365 days",
+            "op3": "After twelve lunar months (354 days)",
+            "op4": "None of the above"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "What is the calculation rate for Zakat on profits generated within the year?",
+        "options": {
+            "op1": "1.5%",
+            "op2": "2.5%",
+            "op3": "3.5%",
+            "op4": "4%"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Who is exempt from paying Zakat in Saudi Arabia?",
+        "options": {
+            "op1": "Government employees",
+            "op2": "Residents with low income",
+            "op3": "Non-residents without taxable income",
+            "op4": "All business entities"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "How should bad debts be treated in Zakat calculation?",
+        "options": {
+            "op1": "Deduct them fully",
+            "op2": "Report only if previously counted as revenue",
+            "op3": "Ignore them",
+            "op4": "Count as an asset"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What type of assets are added to the Zakat base?",
+        "options": {
+            "op1": "Non-business-related personal assets",
+            "op2": "Long-term investments",
+            "op3": "Zakatable assets funded by internal sources",
+            "op4": "Assets exempt from Zakat"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "What is considered a deductible asset?",
+        "options": {
+            "op1": "Cash on hand",
+            "op2": "Inventory for sale",
+            "op3": "Property and equipment",
+            "op4": "Fair value reserves"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "How often are Zakat declarations submitted?",
+        "options": {
+            "op1": "Quarterly",
+            "op2": "Semi-annually",
+            "op3": "Annually",
+            "op4": "Only at business registration"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "What percentage is applied to adjusted profits for Zakat?",
+        "options": {
+            "op1": "1.5%",
+            "op2": "2%",
+            "op3": "2.5%",
+            "op4": "5%"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "What is considered a deductible expense in Zakat calculations?",
+        "options": {
+            "op1": "Employee salaries",
+            "op2": "Donations",
+            "op3": "Long-term investment income",
+            "op4": "Depreciation of personal assets"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Which financial year end aligns with Zakat obligations?",
+        "options": {
+            "op1": "Gregorian year-end",
+            "op2": "Hijri year-end",
+            "op3": "Half-year fiscal period",
+            "op4": "Quarterly year-end"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Who is responsible for determining Zakat rules and guidelines in Saudi Arabia?",
+        "options": {
+            "op1": "Ministry of Finance",
+            "op2": "General Authority of Zakat & Tax (GAZT)",
+            "op3": "Islamic Development Bank",
+            "op4": "Saudi Central Bank"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Which type of asset is generally excluded from the Zakat base?",
+        "options": {
+            "op1": "Cash reserves",
+            "op2": "Inventory",
+            "op3": "Fixed assets",
+            "op4": "Personal loans"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "What is the Zakat rate applied on adjusted profits?",
+        "options": {
+            "op1": "1%",
+            "op2": "2%",
+            "op3": "2.5%",
+            "op4": "5%"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "How is Zakat calculated if the fiscal year is shorter than the Hijri year?",
+        "options": {
+            "op1": "Using the full year rate",
+            "op2": "Adjusting based on the number of days",
+            "op3": "Applying half the standard rate",
+            "op4": "Ignoring the fiscal year length"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What happens to unpaid dividends in Zakat calculations?",
+        "options": {
+            "op1": "They are ignored",
+            "op2": "They are considered distributed",
+            "op3": "They are added to retained earnings",
+            "op4": "They are deducted from the Zakat base"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "How is a partnership's Zakat obligation affected if a partner exits mid-year?",
+        "options": {
+            "op1": "The remaining partners bear full Zakat",
+            "op2": "The partner's Zakat obligation ends immediately",
+            "op3": "Zakat is prorated for the partner",
+            "op4": "Zakat is waived"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "What percentage of unpaid loans can be deducted from Zakat base?",
+        "options": {
+            "op1": "25%",
+            "op2": "50%",
+            "op3": "75%",
+            "op4": "100% if loan is uncollectable"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "What does GAZT stand for?",
+        "options": {
+            "op1": "General Authority of Zakat and Tax",
+            "op2": "Global Authority for Zakat Transactions",
+            "op3": "General Authority of Taxes",
+            "op4": "General Assessment of Zakat Transfers"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "What types of investments are deductible from the Zakat base?",
+        "options": {
+            "op1": "All international investments",
+            "op2": "Only investments in non-trading Saudi companies",
+            "op3": "Long-term trading assets",
+            "op4": "Investments in real estate"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "In which circumstances can bad debts be deducted from the Zakat base?",
+        "options": {
+            "op1": "If debts are confirmed by a chartered accountant",
+            "op2": "When debts are from related parties",
+            "op3": "Only if debts were never counted as revenue",
+            "op4": "In the case of international debt only"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Which assets are always excluded from the Zakat base?",
+        "options": {
+            "op1": "Inventory",
+            "op2": "Personal property not used for business",
+            "op3": "Accounts receivable",
+            "op4": "Prepaid expenses"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "How are deferred tax assets treated in Zakat calculations?",
+        "options": {
+            "op1": "They are fully deductible",
+            "op2": "Added to Zakat base",
+            "op3": "Deducted if meeting specific conditions",
+            "op4": "Ignored"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "What happens to the Zakat base if long-term liabilities exceed deductible assets?",
+        "options": {
+            "op1": "The Zakat base increases",
+            "op2": "The base remains unchanged",
+            "op3": "Zakat base is reduced by excess liability",
+            "op4": "All liabilities are added to the base"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "What types of investments are deductible from the Zakat base?",
+        "options": {
+            "op1": "All international investments",
+            "op2": "Only investments in non-trading Saudi companies",
+            "op3": "Long-term trading assets",
+            "op4": "Investments in real estate"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "In which circumstances can bad debts be deducted from the Zakat base?",
+        "options": {
+            "op1": "If debts are confirmed by a chartered accountant",
+            "op2": "When debts are from related parties",
+            "op3": "Only if debts were never counted as revenue",
+            "op4": "In the case of international debt only"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Which assets are always excluded from the Zakat base?",
+        "options": {
+            "op1": "Inventory",
+            "op2": "Personal property not used for business",
+            "op3": "Accounts receivable",
+            "op4": "Prepaid expenses"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "How are deferred tax assets treated in Zakat calculations?",
+        "options": {
+            "op1": "They are fully deductible",
+            "op2": "Added to Zakat base",
+            "op3": "Deducted if meeting specific conditions",
+            "op4": "Ignored"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "What happens to the Zakat base if long-term liabilities exceed deductible assets?",
+        "options": {
+            "op1": "The Zakat base increases",
+            "op2": "The base remains unchanged",
+            "op3": "Zakat base is reduced by excess liability",
+            "op4": "All liabilities are added to the base"
+        },
+        "answer": "op3"
+    }
+]

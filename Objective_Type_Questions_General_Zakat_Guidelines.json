@@ -1,0 +1,402 @@
+[
+    {
+        "question": "What is the significance of Royal Decree No. (M/40) dated 2/7/1405H?",
+        "options": {
+            "op1": "It established the Saudi Central Bank",
+            "op2": "It mandated full Zakat collection from companies and individuals",
+            "op3": "It allowed companies to be Zakat exempt",
+            "op4": "It reduced Zakat rates"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Who must register with the Zakat Authority?",
+        "options": {
+            "op1": "Only individuals",
+            "op2": "Only legal entities",
+            "op3": "Both Zakat payers subject to and not subject to regulations",
+            "op4": "Only foreign businesses"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "The Zakat ratio of 2.5% is applied based on:",
+        "options": {
+            "op1": "Net income",
+            "op2": "Total assets",
+            "op3": "The number of days in the Hijri year",
+            "op4": "Capital only"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Zakat is the ______ pillar of Islam.",
+        "options": {
+            "op1": "First",
+            "op2": "Second",
+            "op3": "Third",
+            "op4": "Fourth"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "In Zakat, 'resident' refers to:",
+        "options": {
+            "op1": "Only Saudi citizens",
+            "op2": "Anyone living in Saudi Arabia",
+            "op3": "Legal entities meeting Article 3 requirements",
+            "op4": "Foreign businesses"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "What is the purpose of a Zakat Declaration?",
+        "options": {
+            "op1": "To report assets",
+            "op2": "To show fiscal items of the Zakat account and due amount",
+            "op3": "To report income only",
+            "op4": "To declare liabilities"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Commercial records for Zakat payers include:",
+        "options": {
+            "op1": "Only sales",
+            "op2": "All transactions as per Commercial Books Law",
+            "op3": "Only profits",
+            "op4": "Only tax payments"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "How long does a Zakat payer have to pay Zakat after the fiscal year ends?",
+        "options": {
+            "op1": "60 days",
+            "op2": "90 days",
+            "op3": "120 days",
+            "op4": "180 days"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "The indirect method to calculate the Zakat base involves:",
+        "options": {
+            "op1": "Direct income calculation",
+            "op2": "Sources of funds method",
+            "op3": "Asset depreciation",
+            "op4": "Only deducting liabilities"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Which of the following is added to the Zakat base?",
+        "options": {
+            "op1": "Intangible assets",
+            "op2": "Adjusted net loss",
+            "op3": "Capital",
+            "op4": "Net fixed assets"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Which of the following is deducted from the Zakat base?",
+        "options": {
+            "op1": "Retained earnings",
+            "op2": "Intangible assets",
+            "op3": "Advanced revenue",
+            "op4": "Net profit"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What is the Zakat treatment for long-term liabilities?",
+        "options": {
+            "op1": "Always exempt",
+            "op2": "Added to Zakat base up to maximum deductions",
+            "op3": "Deducted from base",
+            "op4": "Considered revenue"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "The minimum Zakat base cannot be less than:",
+        "options": {
+            "op1": "Adjusted net profit",
+            "op2": "Capital",
+            "op3": "Revenue",
+            "op4": "Total liabilities"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "When does the Zakat year begin?",
+        "options": {
+            "op1": "First day of Hijri year",
+            "op2": "Upon issuance of commercial register",
+            "op3": "At any point chosen by Zakat payer",
+            "op4": "January 1st"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "How is the Zakat rate applied if the fiscal year differs from the Hijri year?",
+        "options": {
+            "op1": "It is exempt",
+            "op2": "Pro-rated by actual days",
+            "op3": "Fixed at 2.5%",
+            "op4": "Reduced to 1%"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Normal business expenses for Zakat payers are:",
+        "options": {
+            "op1": "Deductible",
+            "op2": "Non-deductible",
+            "op3": "Included as income",
+            "op4": "Taxable"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Which of these expenses is NOT deductible for Zakat?",
+        "options": {
+            "op1": "Salaries for registered employees",
+            "op2": "Entertainment expenses",
+            "op3": "Donations to authorized entities",
+            "op4": "School expenses"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Donations to authorized entities for Zakat payers are:",
+        "options": {
+            "op1": "Fully deductible",
+            "op2": "Only partially deductible",
+            "op3": "Non-deductible",
+            "op4": "Considered revenue"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Provisions and reserves formed during the year are:",
+        "options": {
+            "op1": "Deducted from Zakat base",
+            "op2": "Non-deductible",
+            "op3": "Added to equity",
+            "op4": "Only partially included"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "For Zakat purposes, entertainment expenses are:",
+        "options": {
+            "op1": "Deductible",
+            "op2": "Non-deductible",
+            "op3": "Zakatable",
+            "op4": "Ignored"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Objection to Zakat assessment can be filed with:",
+        "options": {
+            "op1": "Ministry of Finance",
+            "op2": "Tax Dispute and Appellate Committee",
+            "op3": "Local court",
+            "op4": "Legal Department of Zakat Authority"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "A Zakat payer can file an appeal during the objection period with:",
+        "options": {
+            "op1": "Finance Ministry",
+            "op2": "Settlement Committee",
+            "op3": "Central Bank",
+            "op4": "Local Court"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Which is NOT a source of Zakat revenue?",
+        "options": {
+            "op1": "Net profit",
+            "op2": "Capital",
+            "op3": "Zakatable investments",
+            "op4": "Personal expenses"
+        },
+        "answer": "op4"
+    },
+    {
+        "question": "The zakat treatment for agriculture inputs is:",
+        "options": {
+            "op1": "Zakatable",
+            "op2": "Non-zakatable",
+            "op3": "Exempt",
+            "op4": "Added to Zakat base"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "A non-resident is defined as:",
+        "options": {
+            "op1": "Only foreign citizens",
+            "op2": "Anyone outside Saudi Arabia",
+            "op3": "Any person not qualifying as a resident",
+            "op4": "Foreign business owners only"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Which items are added to Zakat base?",
+        "options": {
+            "op1": "Capital work in progress",
+            "op2": "Net fixed assets",
+            "op3": "Retained earnings",
+            "op4": "Adjusted net loss"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Which document regulates commercial records?",
+        "options": {
+            "op1": "Zakat Regulation Act",
+            "op2": "Royal Decree No. (M/61)",
+            "op3": "Commercial Revenue Act",
+            "op4": "Zakat Collection Act"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "For Zakat, the fair value change in assets is:",
+        "options": {
+            "op1": "Deducted",
+            "op2": "Added to Zakat base",
+            "op3": "Ignored",
+            "op4": "Classified as liability"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Which of the following defines the concept of Zakat year?",
+        "options": {
+            "op1": "Hijri year only",
+            "op2": "Fiscal year of Zakat payer",
+            "op3": "Gregorian year only",
+            "op4": "Fixed annual period"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What is deducted when calculating Zakat base?",
+        "options": {
+            "op1": "Gross revenue",
+            "op2": "Adjusted net loss",
+            "op3": "Retained earnings",
+            "op4": "Long-term liabilities"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What is the minimum Zakat collection rate on the base?",
+        "options": {
+            "op1": "1%",
+            "op2": "2%",
+            "op3": "2.5%",
+            "op4": "3%"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Advance payments for Zakat calculation are:",
+        "options": {
+            "op1": "Fully deductible",
+            "op2": "Added to Zakat base",
+            "op3": "Only added if renewed",
+            "op4": "Considered revenue"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Non-Zakatable assets in the Zakat base calculation include:",
+        "options": {
+            "op1": "Cash reserves",
+            "op2": "Intangible assets",
+            "op3": "Retained earnings",
+            "op4": "Equity"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "The Zakat treatment for inventory under development is:",
+        "options": {
+            "op1": "Deductible",
+            "op2": "Zakatable",
+            "op3": "Exempt",
+            "op4": "Added if current"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "In Zakat, non-deductible expenses include:",
+        "options": {
+            "op1": "Salaries",
+            "op2": "Business expenses",
+            "op3": "Personal expenses",
+            "op4": "Authorized donations"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Provisions used during the Zakat year are:",
+        "options": {
+            "op1": "Added to base",
+            "op2": "Deducted from base",
+            "op3": "Exempt",
+            "op4": "Ignored"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Statutory deposits for insurance companies are:",
+        "options": {
+            "op1": "Zakatable",
+            "op2": "Deductible",
+            "op3": "Exempt",
+            "op4": "Considered capital"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Short financial periods at year-end under 354 days are:",
+        "options": {
+            "op1": "Exempt from Zakat",
+            "op2": "Taxed at reduced rate",
+            "op3": "Considered normal period",
+            "op4": "Prorated by days"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "The basis for calculating adjusted net profit includes:",
+        "options": {
+            "op1": "Income before expenses",
+            "op2": "Book profit or loss",
+            "op3": "Total assets",
+            "op4": "Liabilities only"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Expenses without supporting documents for Zakat are:",
+        "options": {
+            "op1": "Deductible",
+            "op2": "Non-deductible",
+            "op3": "Zakatable",
+            "op4": "Deferred"
+        },
+        "answer": "op2"
+    }
+]

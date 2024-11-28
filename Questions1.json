@@ -1,0 +1,402 @@
+[
+    {
+        "question": "What is Zakat?",
+        "options": {
+            "op1": "A religious obligation in Islam",
+            "op2": "A form of tax in Saudi Arabia",
+            "op3": "A financial transaction",
+            "op4": "None of the above"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Which authority is responsible for levying and collecting Zakat in Saudi Arabia?",
+        "options": {
+            "op1": "Ministry of Finance",
+            "op2": "General Authority of Zakat & Tax (ZATCA)",
+            "op3": "Saudi Central Bank (SAMA)",
+            "op4": "Social Security Organization"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "When was the Royal Decree that stipulated Zakat collection issued?",
+        "options": {
+            "op1": "1370 AH",
+            "op2": "1405 AH",
+            "op3": "1440 AH",
+            "op4": "2021 AD"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "What percentage of Zakat is generally applicable for financing activities in Saudi Arabia?",
+        "options": {
+            "op1": "1.5%",
+            "op2": "2.5%",
+            "op3": "3%",
+            "op4": "5%"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What type of assets are considered non-Zakatable?",
+        "options": {
+            "op1": "Cash and cash equivalents",
+            "op2": "Accounts receivable",
+            "op3": "Property and equipment",
+            "op4": "Inventory"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Who are considered Zakat payers under Saudi regulations?",
+        "options": {
+            "op1": "Only individuals",
+            "op2": "Only companies",
+            "op3": "Individuals and companies with financial activities",
+            "op4": "Only residents"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "What formula is used to calculate Zakat base for financing activities?",
+        "options": {
+            "op1": "Zakat Base = Zakatable Assets / Total Assets",
+            "op2": "Zakat Base = Sources of Funds X (Zakatable Assets / Total Assets)",
+            "op3": "Zakat Base = Net Profit X 2.5%",
+            "op4": "None of the above"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Which of the following assets is Zakatable?",
+        "options": {
+            "op1": "Property and equipment",
+            "op2": "Intangible assets",
+            "op3": "Cash and cash equivalents",
+            "op4": "Investments in government Sukuk"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "What is the minimum limit of the Zakat base if the Zakat payer realizes a net profit?",
+        "options": {
+            "op1": "2 times net profit",
+            "op2": "3 times net profit",
+            "op3": "4 times net profit",
+            "op4": "8 times net profit"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Under which circumstances is a deemed calculation method used?",
+        "options": {
+            "op1": "When Zakat payer maintains statutory accounts",
+            "op2": "When Zakat payer fails to file the declaration on time",
+            "op3": "When Zakat is calculated based on assets only",
+            "op4": "When the profit margin is less than 2.5%"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What is Al Hawl in Zakat calculation?",
+        "options": {
+            "op1": "One lunar year",
+            "op2": "One calendar year",
+            "op3": "Six months",
+            "op4": "Five years"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Who supervises Zakat declaration submissions in Saudi Arabia?",
+        "options": {
+            "op1": "Zakat and Tax Authority",
+            "op2": "Ministry of Justice",
+            "op3": "Saudi Stock Exchange",
+            "op4": "Saudi Arabian Monetary Authority"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Which formula adjusts Zakat calculation when the fiscal year is not based on the Hijri year?",
+        "options": {
+            "op1": "Adjusted Net Profit X 2.5%",
+            "op2": "2.5% / 354 X Number of days in fiscal year",
+            "op3": "Net Profit - 10%",
+            "op4": "Zakatable Assets / Total Assets"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Which assets are added to the Zakat base calculation under short-term liabilities?",
+        "options": {
+            "op1": "Non-deductible assets",
+            "op2": "Deductible assets",
+            "op3": "Long-term assets",
+            "op4": "None of the above"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What is the Zakat percentage applied to Zakatable assets for a full lunar year?",
+        "options": {
+            "op1": "1.5%",
+            "op2": "2.5%",
+            "op3": "4%",
+            "op4": "5%"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What is a requirement for consolidation of financial statements for Zakat purposes?",
+        "options": {
+            "op1": "The company must be publicly listed",
+            "op2": "The company must be fully owned by the Zakat payer",
+            "op3": "The company must have a minimum capital of SAR 1 million",
+            "op4": "The company must be approved by SAMA"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What is considered an internal source of funds in Zakat calculations?",
+        "options": {
+            "op1": "External borrowings",
+            "op2": "Equity",
+            "op3": "Short-term liabilities",
+            "op4": "Bonds"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What is a positive fair value of derivatives classified as?",
+        "options": {
+            "op1": "Zakatable assets",
+            "op2": "Non-Zakatable assets",
+            "op3": "Deductible liability",
+            "op4": "None of the above"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What are the two main Zakat calculation methods for companies?",
+        "options": {
+            "op1": "Direct and indirect methods",
+            "op2": "Cash and accrual methods",
+            "op3": "Debit and credit methods",
+            "op4": "Zakat and Sadaqah methods"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "In case of no net profit, how is the minimum Zakat base determined?",
+        "options": {
+            "op1": "Based on total assets",
+            "op2": "10% of gross profit",
+            "op3": "Adjusted Net Profit",
+            "op4": "Based on market value"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Which authority issues the guidelines for Zakat calculation?",
+        "options": {
+            "op1": "Saudi Central Bank",
+            "op2": "Ministry of Commerce",
+            "op3": "General Authority of Zakat & Tax",
+            "op4": "Ministry of Finance"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "What is the Zakat rate for financing activities when the Zakat year differs from the Hijri year?",
+        "options": {
+            "op1": "Adjusted based on Hijri calendar",
+            "op2": "Set at 2%",
+            "op3": "Set at 3%",
+            "op4": "Fixed at 2.5%"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Which of these funds is not subject to Zakat?",
+        "options": {
+            "op1": "Long-term debt",
+            "op2": "Short-term liabilities",
+            "op3": "Internal funds",
+            "op4": "Shareholders' equity"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "In Zakat calculations, what term describes twelve lunar months?",
+        "options": {
+            "op1": "Fiscal period",
+            "op2": "Gregorian year",
+            "op3": "Al Hawl",
+            "op4": "Zakat cycle"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "How does ZATCA handle objections from Zakat payers regarding assessments?",
+        "options": {
+            "op1": "Issues a penalty",
+            "op2": "Accepts objections for review",
+            "op3": "Rejects all objections",
+            "op4": "Transfers cases to SAMA"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What is the purpose of calculating a Zakat base?",
+        "options": {
+            "op1": "To determine non-Zakatable assets",
+            "op2": "To establish taxable income",
+            "op3": "To calculate Zakat liability",
+            "op4": "To assess company profitability"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Which method does the Authority use to compute Zakat for financing activities?",
+        "options": {
+            "op1": "Direct method",
+            "op2": "Altanseeb method",
+            "op3": "Cash basis",
+            "op4": "Accrual method"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Which assets are excluded from Zakat calculations?",
+        "options": {
+            "op1": "Current assets",
+            "op2": "Zakatable assets",
+            "op3": "Intangible assets",
+            "op4": "Cash reserves"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Who must file a Zakat declaration under the Rules?",
+        "options": {
+            "op1": "Individuals only",
+            "op2": "Companies licensed by SAMA",
+            "op3": "Non-residents",
+            "op4": "Private entities only"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What document is necessary for determining the Zakat base?",
+        "options": {
+            "op1": "Income statement",
+            "op2": "Zakat Declaration Form",
+            "op3": "Tax identification document",
+            "op4": "Memorandum of Association"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "If a Zakat payer has a positive fair value derivative, how is it treated?",
+        "options": {
+            "op1": "As a non-Zakatable asset",
+            "op2": "As Zakatable income",
+            "op3": "As a short-term liability",
+            "op4": "As part of gross profit"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "What method of Zakat calculation does not apply to financing entities?",
+        "options": {
+            "op1": "Direct method",
+            "op2": "Indirect method",
+            "op3": "Deemed method",
+            "op4": "Altanseeb method"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "What type of reserve is considered an internal fund in Zakat calculations?",
+        "options": {
+            "op1": "Cash reserve",
+            "op2": "Statutory reserve",
+            "op3": "Negative fair value reserve",
+            "op4": "Real estate reserve"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Under the rules, what is a 'non-Zakatable asset'?",
+        "options": {
+            "op1": "Cash holdings",
+            "op2": "Inventory",
+            "op3": "Property and equipment",
+            "op4": "Receivables"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "How are short-term loans classified for Zakat purposes?",
+        "options": {
+            "op1": "Zakatable assets",
+            "op2": "Deductible liabilities",
+            "op3": "Non-Zakatable assets",
+            "op4": "Internal funds"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Which of these assets would be included in Zakatable assets?",
+        "options": {
+            "op1": "Long-term fixed assets",
+            "op2": "Cash in hand",
+            "op3": "Government bonds",
+            "op4": "Statutory deposits"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What is required for a consolidated Zakat declaration?",
+        "options": {
+            "op1": "Zakat payer must have statutory accounts",
+            "op2": "Subsidiaries must be wholly owned",
+            "op5": "Parent company approval",
+            "op6": "Audit report for each entity"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What entity bears Zakat on government-issued Sukuk?",
+        "options": {
+            "op1": "Zakat payer",
+            "op2": "Saudi Central Bank",
+            "op3": "The state",
+            "op4": "Ministry of Finance"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "What is the adjusted rate for calculating Zakat over a Gregorian calendar year?",
+        "options": {
+            "op1": "2.5%",
+            "op2": "2.578%",
+            "op3": "3%",
+            "op4": "1.5%"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What document contains frequently asked questions about Zakat in Saudi Arabia?",
+        "options": {
+            "op1": "Appendix of the Zakat Guidelines",
+            "op2": "SAMA Regulatory Document",
+            "op3": "Saudi Tax Manual",
+            "op4": "Financial Yearbook"
+        },
+        "answer": "op1"
+    }
+]

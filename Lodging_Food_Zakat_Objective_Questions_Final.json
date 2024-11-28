@@ -1,0 +1,402 @@
+[
+    {
+        "question": "What is the main purpose of Zakat in Islamic finance?",
+        "options": {
+            "op1": "Wealth redistribution",
+            "op2": "Increasing state revenue",
+            "op3": "Regulating businesses",
+            "op4": "Promoting investment"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "Who is responsible for Zakat collection in Saudi Arabia?",
+        "options": {
+            "op1": "Ministry of Commerce",
+            "op2": "General Authority of Zakat & Tax",
+            "op3": "Central Bank",
+            "op4": "Local Municipality"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "The typical Zakat rate applied to Zakatable assets is:",
+        "options": {
+            "op1": "1%",
+            "op2": "2.5%",
+            "op3": "5%",
+            "op4": "7.5%"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Which of the following is included in the Zakat base?",
+        "options": {
+            "op1": "Personal savings",
+            "op2": "Inventory for sale",
+            "op3": "Property investments",
+            "op4": "Fixed assets"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "In the context of Zakat, 'Al-Hawl' refers to:",
+        "options": {
+            "op1": "A fiscal quarter",
+            "op2": "A full lunar year",
+            "op3": "A week",
+            "op4": "A month"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What method is used for calculating Zakat if commercial books are maintained?",
+        "options": {
+            "op1": "Direct assessment",
+            "op2": "Addition and deduction method",
+            "op3": "Estimation",
+            "op4": "None"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Which of the following is deducted from the Zakat base?",
+        "options": {
+            "op1": "Inventory",
+            "op2": "Fixed assets",
+            "op3": "Accounts payable",
+            "op4": "Loans"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Zakat must be paid within how many months after the end of a financial year?",
+        "options": {
+            "op1": "1 month",
+            "op2": "2 months",
+            "op3": "3 months",
+            "op4": "6 months"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Which of these sectors has specific guidelines for Zakat calculation?",
+        "options": {
+            "op1": "Healthcare",
+            "op2": "Manufacturing",
+            "op3": "Lodging and food services",
+            "op4": "Education"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "What is the purpose of the Zakat declaration form?",
+        "options": {
+            "op1": "To register with the authority",
+            "op2": "To calculate personal tax",
+            "op3": "To declare Zakatable assets and liabilities",
+            "op4": "None"
+        },
+        "answer": "op3"
+    },
+    {
+        "question": "Which authority is tasked with monitoring Zakat compliance?",
+        "options": {
+            "op1": "Municipal authorities",
+            "op2": "Zakat, Tax, and Customs Authority",
+            "op3": "Public Accountant",
+            "op4": "Central Bank"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "The term 'Al-Hawl' signifies:",
+        "options": {
+            "op1": "A business quarter",
+            "op2": "A lunar year",
+            "op3": "A calendar year",
+            "op4": "A decade"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "How does Zakat apply to foreign investments?",
+        "options": {
+            "op1": "Always included",
+            "op2": "Only if Zakat is unpaid in the country of origin",
+            "op3": "Only on profits",
+            "op4": "Not applicable"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "For lodging services, the Zakat rate of 2.5% applies to:",
+        "options": {
+            "op1": "Fixed assets",
+            "op2": "Liquid assets",
+            "op3": "All revenue",
+            "op4": "Salaries"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Which item is not deducted from the Zakat base?",
+        "options": {
+            "op1": "Long-term investments",
+            "op2": "Inventory",
+            "op3": "Cash held for operations",
+            "op4": "Accounts receivable"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "If Zakat base is less than adjusted profit, the calculation is based on:",
+        "options": {
+            "op1": "Zakat base",
+            "op2": "Adjusted profit",
+            "op3": "Revenue",
+            "op4": "Assets only"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Which authority is tasked with monitoring Zakat compliance?",
+        "options": {
+            "op1": "Municipal authorities",
+            "op2": "Zakat, Tax, and Customs Authority",
+            "op3": "Public Accountant",
+            "op4": "Central Bank"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "The term 'Al-Hawl' signifies:",
+        "options": {
+            "op1": "A business quarter",
+            "op2": "A lunar year",
+            "op3": "A calendar year",
+            "op4": "A decade"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "How does Zakat apply to foreign investments?",
+        "options": {
+            "op1": "Always included",
+            "op2": "Only if Zakat is unpaid in the country of origin",
+            "op3": "Only on profits",
+            "op4": "Not applicable"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "For lodging services, the Zakat rate of 2.5% applies to:",
+        "options": {
+            "op1": "Fixed assets",
+            "op2": "Liquid assets",
+            "op3": "All revenue",
+            "op4": "Salaries"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Which item is not deducted from the Zakat base?",
+        "options": {
+            "op1": "Long-term investments",
+            "op2": "Inventory",
+            "op3": "Cash held for operations",
+            "op4": "Accounts receivable"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "If Zakat base is less than adjusted profit, the calculation is based on:",
+        "options": {
+            "op1": "Zakat base",
+            "op2": "Adjusted profit",
+            "op3": "Revenue",
+            "op4": "Assets only"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Which authority is tasked with monitoring Zakat compliance?",
+        "options": {
+            "op1": "Municipal authorities",
+            "op2": "Zakat, Tax, and Customs Authority",
+            "op3": "Public Accountant",
+            "op4": "Central Bank"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "The term 'Al-Hawl' signifies:",
+        "options": {
+            "op1": "A business quarter",
+            "op2": "A lunar year",
+            "op3": "A calendar year",
+            "op4": "A decade"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "How does Zakat apply to foreign investments?",
+        "options": {
+            "op1": "Always included",
+            "op2": "Only if Zakat is unpaid in the country of origin",
+            "op3": "Only on profits",
+            "op4": "Not applicable"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "For lodging services, the Zakat rate of 2.5% applies to:",
+        "options": {
+            "op1": "Fixed assets",
+            "op2": "Liquid assets",
+            "op3": "All revenue",
+            "op4": "Salaries"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Which item is not deducted from the Zakat base?",
+        "options": {
+            "op1": "Long-term investments",
+            "op2": "Inventory",
+            "op3": "Cash held for operations",
+            "op4": "Accounts receivable"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "If Zakat base is less than adjusted profit, the calculation is based on:",
+        "options": {
+            "op1": "Zakat base",
+            "op2": "Adjusted profit",
+            "op3": "Revenue",
+            "op4": "Assets only"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Which authority is tasked with monitoring Zakat compliance?",
+        "options": {
+            "op1": "Municipal authorities",
+            "op2": "Zakat, Tax, and Customs Authority",
+            "op3": "Public Accountant",
+            "op4": "Central Bank"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "The term 'Al-Hawl' signifies:",
+        "options": {
+            "op1": "A business quarter",
+            "op2": "A lunar year",
+            "op3": "A calendar year",
+            "op4": "A decade"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "How does Zakat apply to foreign investments?",
+        "options": {
+            "op1": "Always included",
+            "op2": "Only if Zakat is unpaid in the country of origin",
+            "op3": "Only on profits",
+            "op4": "Not applicable"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "For lodging services, the Zakat rate of 2.5% applies to:",
+        "options": {
+            "op1": "Fixed assets",
+            "op2": "Liquid assets",
+            "op3": "All revenue",
+            "op4": "Salaries"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Which item is not deducted from the Zakat base?",
+        "options": {
+            "op1": "Long-term investments",
+            "op2": "Inventory",
+            "op3": "Cash held for operations",
+            "op4": "Accounts receivable"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "If Zakat base is less than adjusted profit, the calculation is based on:",
+        "options": {
+            "op1": "Zakat base",
+            "op2": "Adjusted profit",
+            "op3": "Revenue",
+            "op4": "Assets only"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Which of these is NOT included in the Zakat base calculation?",
+        "options": {
+            "op1": "Cash on hand",
+            "op2": "Fixed assets used in the business",
+            "op3": "Accounts payable",
+            "op4": "Trade receivables"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "Zakat for the lodging and food services sector is collected by:",
+        "options": {
+            "op1": "Ministry of Commerce",
+            "op2": "Zakat, Tax, and Customs Authority",
+            "op3": "Ministry of Finance",
+            "op4": "Central Bank"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "What is the purpose of the General Authority of Zakat & Tax?",
+        "options": {
+            "op1": "To regulate foreign investments",
+            "op2": "To oversee Zakat and tax compliance",
+            "op3": "To manage local currency",
+            "op4": "None of the above"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "The Zakat year consists of how many lunar months?",
+        "options": {
+            "op1": "12 months",
+            "op2": "11 months",
+            "op3": "10 months",
+            "op4": "13 months"
+        },
+        "answer": "op1"
+    },
+    {
+        "question": "What is required to deduct salaries paid to partners for Zakat purposes?",
+        "options": {
+            "op1": "Cash payment",
+            "op2": "Registration with social insurance",
+            "op3": "Company approval",
+            "op4": "Partner's request"
+        },
+        "answer": "op2"
+    },
+    {
+        "question": "The main principle behind Zakat is to:",
+        "options": {
+            "op1": "Increase state revenue",
+            "op2": "Support social welfare",
+            "op3": "Regulate the market",
+            "op4": "Enhance business growth"
+        },
+        "answer": "op2"
+    }
+]
